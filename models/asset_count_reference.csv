@@ -1,0 +1,688 @@
+sector,subsector,gas,state,min,max,mean
+manufacturing,aluminum,ch4,Andhra Pradesh,1,1,1.0
+manufacturing,aluminum,ch4,Chhattisgarh,2,2,2.0
+manufacturing,aluminum,ch4,Haryana,1,1,1.0
+manufacturing,aluminum,ch4,Jharkhand,1,1,1.0
+manufacturing,aluminum,ch4,Karnataka,1,1,1.0
+manufacturing,aluminum,ch4,Kerala,1,1,1.0
+manufacturing,aluminum,ch4,Madhya Pradesh,2,2,2.0
+manufacturing,aluminum,ch4,Odisha,7,7,7.0
+manufacturing,aluminum,ch4,Punjab,1,1,1.0
+manufacturing,aluminum,ch4,Tamil Nadu,1,1,1.0
+manufacturing,aluminum,ch4,Uttar Pradesh,1,1,1.0
+manufacturing,aluminum,co2,Andhra Pradesh,1,1,1.0
+manufacturing,aluminum,co2,Chhattisgarh,2,2,2.0
+manufacturing,aluminum,co2,Haryana,1,1,1.0
+manufacturing,aluminum,co2,Jharkhand,1,1,1.0
+manufacturing,aluminum,co2,Karnataka,1,1,1.0
+manufacturing,aluminum,co2,Kerala,1,1,1.0
+manufacturing,aluminum,co2,Madhya Pradesh,2,2,2.0
+manufacturing,aluminum,co2,Odisha,7,7,7.0
+manufacturing,aluminum,co2,Punjab,1,1,1.0
+manufacturing,aluminum,co2,Tamil Nadu,1,1,1.0
+manufacturing,aluminum,co2,Uttar Pradesh,1,1,1.0
+manufacturing,aluminum,n2o,Andhra Pradesh,1,1,1.0
+manufacturing,aluminum,n2o,Chhattisgarh,2,2,2.0
+manufacturing,aluminum,n2o,Haryana,1,1,1.0
+manufacturing,aluminum,n2o,Jharkhand,1,1,1.0
+manufacturing,aluminum,n2o,Karnataka,1,1,1.0
+manufacturing,aluminum,n2o,Kerala,1,1,1.0
+manufacturing,aluminum,n2o,Madhya Pradesh,2,2,2.0
+manufacturing,aluminum,n2o,Odisha,7,7,7.0
+manufacturing,aluminum,n2o,Punjab,1,1,1.0
+manufacturing,aluminum,n2o,Tamil Nadu,1,1,1.0
+manufacturing,aluminum,n2o,Uttar Pradesh,1,1,1.0
+manufacturing,cement,ch4,Andhra Pradesh,25,25,25.0
+manufacturing,cement,ch4,Assam,3,3,3.0
+manufacturing,cement,ch4,Bihar,1,1,1.0
+manufacturing,cement,ch4,Chhattisgarh,10,10,10.0
+manufacturing,cement,ch4,Gujarat,9,9,9.0
+manufacturing,cement,ch4,Himachal Pradesh,4,4,4.0
+manufacturing,cement,ch4,Jammu and Kashmir,3,3,3.0
+manufacturing,cement,ch4,Jharkhand,1,1,1.0
+manufacturing,cement,ch4,Karnataka,11,11,11.0
+manufacturing,cement,ch4,Madhya Pradesh,16,16,16.0
+manufacturing,cement,ch4,Maharashtra,6,6,6.0
+manufacturing,cement,ch4,Meghalaya,9,9,9.0
+manufacturing,cement,ch4,Odisha,3,3,3.0
+manufacturing,cement,ch4,Punjab,1,1,1.0
+manufacturing,cement,ch4,Rajasthan,23,23,23.0
+manufacturing,cement,ch4,Tamil Nadu,19,19,19.0
+manufacturing,cement,ch4,Telangana,17,17,17.0
+manufacturing,cement,ch4,Uttar Pradesh,2,2,2.0
+manufacturing,cement,co2,Andhra Pradesh,25,25,25.0
+manufacturing,cement,co2,Assam,3,3,3.0
+manufacturing,cement,co2,Bihar,1,1,1.0
+manufacturing,cement,co2,Chhattisgarh,10,10,10.0
+manufacturing,cement,co2,Gujarat,9,9,9.0
+manufacturing,cement,co2,Himachal Pradesh,4,4,4.0
+manufacturing,cement,co2,Jammu and Kashmir,3,3,3.0
+manufacturing,cement,co2,Jharkhand,1,1,1.0
+manufacturing,cement,co2,Karnataka,11,11,11.0
+manufacturing,cement,co2,Madhya Pradesh,16,16,16.0
+manufacturing,cement,co2,Maharashtra,6,6,6.0
+manufacturing,cement,co2,Meghalaya,9,9,9.0
+manufacturing,cement,co2,Odisha,3,3,3.0
+manufacturing,cement,co2,Punjab,1,1,1.0
+manufacturing,cement,co2,Rajasthan,23,23,23.0
+manufacturing,cement,co2,Tamil Nadu,19,19,19.0
+manufacturing,cement,co2,Telangana,17,17,17.0
+manufacturing,cement,co2,Uttar Pradesh,2,2,2.0
+manufacturing,cement,n2o,Andhra Pradesh,25,25,25.0
+manufacturing,cement,n2o,Assam,3,3,3.0
+manufacturing,cement,n2o,Bihar,1,1,1.0
+manufacturing,cement,n2o,Chhattisgarh,10,10,10.0
+manufacturing,cement,n2o,Gujarat,9,9,9.0
+manufacturing,cement,n2o,Himachal Pradesh,4,4,4.0
+manufacturing,cement,n2o,Jammu and Kashmir,3,3,3.0
+manufacturing,cement,n2o,Jharkhand,1,1,1.0
+manufacturing,cement,n2o,Karnataka,11,11,11.0
+manufacturing,cement,n2o,Madhya Pradesh,16,16,16.0
+manufacturing,cement,n2o,Maharashtra,6,6,6.0
+manufacturing,cement,n2o,Meghalaya,9,9,9.0
+manufacturing,cement,n2o,Odisha,3,3,3.0
+manufacturing,cement,n2o,Punjab,1,1,1.0
+manufacturing,cement,n2o,Rajasthan,23,23,23.0
+manufacturing,cement,n2o,Tamil Nadu,19,19,19.0
+manufacturing,cement,n2o,Telangana,17,17,17.0
+manufacturing,cement,n2o,Uttar Pradesh,2,2,2.0
+manufacturing,chemicals,ch4,Andhra Pradesh,1,1,1.0
+manufacturing,chemicals,ch4,Assam,3,3,3.0
+manufacturing,chemicals,ch4,Goa,1,1,1.0
+manufacturing,chemicals,ch4,Gujarat,8,8,8.0
+manufacturing,chemicals,ch4,Madhya Pradesh,1,1,1.0
+manufacturing,chemicals,ch4,Maharashtra,4,4,4.0
+manufacturing,chemicals,ch4,Punjab,1,1,1.0
+manufacturing,chemicals,ch4,Rajasthan,1,1,1.0
+manufacturing,chemicals,ch4,Tamil Nadu,2,2,2.0
+manufacturing,chemicals,ch4,Uttar Pradesh,5,5,5.0
+manufacturing,chemicals,ch4,West Bengal,1,1,1.0
+manufacturing,chemicals,co2,Andhra Pradesh,1,1,1.0
+manufacturing,chemicals,co2,Assam,3,3,3.0
+manufacturing,chemicals,co2,Goa,1,1,1.0
+manufacturing,chemicals,co2,Gujarat,8,8,8.0
+manufacturing,chemicals,co2,Madhya Pradesh,1,1,1.0
+manufacturing,chemicals,co2,Maharashtra,4,4,4.0
+manufacturing,chemicals,co2,Punjab,1,1,1.0
+manufacturing,chemicals,co2,Rajasthan,1,1,1.0
+manufacturing,chemicals,co2,Tamil Nadu,2,2,2.0
+manufacturing,chemicals,co2,Uttar Pradesh,5,5,5.0
+manufacturing,chemicals,co2,West Bengal,1,1,1.0
+manufacturing,chemicals,n2o,Andhra Pradesh,1,1,1.0
+manufacturing,chemicals,n2o,Assam,3,3,3.0
+manufacturing,chemicals,n2o,Goa,1,1,1.0
+manufacturing,chemicals,n2o,Gujarat,8,8,8.0
+manufacturing,chemicals,n2o,Madhya Pradesh,1,1,1.0
+manufacturing,chemicals,n2o,Maharashtra,4,4,4.0
+manufacturing,chemicals,n2o,Punjab,1,1,1.0
+manufacturing,chemicals,n2o,Rajasthan,1,1,1.0
+manufacturing,chemicals,n2o,Tamil Nadu,2,2,2.0
+manufacturing,chemicals,n2o,Uttar Pradesh,5,5,5.0
+manufacturing,chemicals,n2o,West Bengal,1,1,1.0
+manufacturing,iron-and-steel,ch4,Andhra Pradesh,2,2,2.0
+manufacturing,iron-and-steel,ch4,Chhattisgarh,11,11,11.0
+manufacturing,iron-and-steel,ch4,Gujarat,3,3,3.0
+manufacturing,iron-and-steel,ch4,Haryana,1,1,1.0
+manufacturing,iron-and-steel,ch4,Jharkhand,6,6,6.0
+manufacturing,iron-and-steel,ch4,Karnataka,5,5,5.0
+manufacturing,iron-and-steel,ch4,Maharashtra,3,3,3.0
+manufacturing,iron-and-steel,ch4,Odisha,19,19,19.0
+manufacturing,iron-and-steel,ch4,Tamil Nadu,1,1,1.0
+manufacturing,iron-and-steel,ch4,Uttar Pradesh,1,1,1.0
+manufacturing,iron-and-steel,ch4,West Bengal,12,12,12.0
+manufacturing,iron-and-steel,co2,Andhra Pradesh,2,2,2.0
+manufacturing,iron-and-steel,co2,Chhattisgarh,11,11,11.0
+manufacturing,iron-and-steel,co2,Gujarat,3,3,3.0
+manufacturing,iron-and-steel,co2,Haryana,1,1,1.0
+manufacturing,iron-and-steel,co2,Jharkhand,6,6,6.0
+manufacturing,iron-and-steel,co2,Karnataka,5,5,5.0
+manufacturing,iron-and-steel,co2,Maharashtra,3,3,3.0
+manufacturing,iron-and-steel,co2,Odisha,19,19,19.0
+manufacturing,iron-and-steel,co2,Tamil Nadu,1,1,1.0
+manufacturing,iron-and-steel,co2,Uttar Pradesh,1,1,1.0
+manufacturing,iron-and-steel,co2,West Bengal,12,12,12.0
+manufacturing,iron-and-steel,n2o,Andhra Pradesh,2,2,2.0
+manufacturing,iron-and-steel,n2o,Chhattisgarh,11,11,11.0
+manufacturing,iron-and-steel,n2o,Gujarat,3,3,3.0
+manufacturing,iron-and-steel,n2o,Haryana,1,1,1.0
+manufacturing,iron-and-steel,n2o,Jharkhand,6,6,6.0
+manufacturing,iron-and-steel,n2o,Karnataka,5,5,5.0
+manufacturing,iron-and-steel,n2o,Maharashtra,3,3,3.0
+manufacturing,iron-and-steel,n2o,Odisha,19,19,19.0
+manufacturing,iron-and-steel,n2o,Tamil Nadu,1,1,1.0
+manufacturing,iron-and-steel,n2o,Uttar Pradesh,1,1,1.0
+manufacturing,iron-and-steel,n2o,West Bengal,12,12,12.0
+manufacturing,petrochemical-steam-cracking,ch4,Assam,1,1,1.0
+manufacturing,petrochemical-steam-cracking,ch4,Gujarat,5,5,5.0
+manufacturing,petrochemical-steam-cracking,ch4,Haryana,1,1,1.0
+manufacturing,petrochemical-steam-cracking,ch4,Maharashtra,1,1,1.0
+manufacturing,petrochemical-steam-cracking,ch4,Punjab,1,1,1.0
+manufacturing,petrochemical-steam-cracking,ch4,Uttar Pradesh,1,1,1.0
+manufacturing,petrochemical-steam-cracking,ch4,West Bengal,1,1,1.0
+manufacturing,petrochemical-steam-cracking,co2,Assam,1,1,1.0
+manufacturing,petrochemical-steam-cracking,co2,Gujarat,5,5,5.0
+manufacturing,petrochemical-steam-cracking,co2,Haryana,1,1,1.0
+manufacturing,petrochemical-steam-cracking,co2,Maharashtra,1,1,1.0
+manufacturing,petrochemical-steam-cracking,co2,Punjab,1,1,1.0
+manufacturing,petrochemical-steam-cracking,co2,Uttar Pradesh,1,1,1.0
+manufacturing,petrochemical-steam-cracking,co2,West Bengal,1,1,1.0
+manufacturing,petrochemical-steam-cracking,n2o,Assam,1,1,1.0
+manufacturing,petrochemical-steam-cracking,n2o,Gujarat,5,5,5.0
+manufacturing,petrochemical-steam-cracking,n2o,Haryana,1,1,1.0
+manufacturing,petrochemical-steam-cracking,n2o,Maharashtra,1,1,1.0
+manufacturing,petrochemical-steam-cracking,n2o,Punjab,1,1,1.0
+manufacturing,petrochemical-steam-cracking,n2o,Uttar Pradesh,1,1,1.0
+manufacturing,petrochemical-steam-cracking,n2o,West Bengal,1,1,1.0
+manufacturing,pulp-and-paper,ch4,Gujarat,1,1,1.0
+manufacturing,pulp-and-paper,ch4,Haryana,1,1,1.0
+manufacturing,pulp-and-paper,ch4,Karnataka,1,1,1.0
+manufacturing,pulp-and-paper,ch4,Kerala,1,1,1.0
+manufacturing,pulp-and-paper,ch4,Madhya Pradesh,1,1,1.0
+manufacturing,pulp-and-paper,ch4,Maharashtra,2,2,2.0
+manufacturing,pulp-and-paper,ch4,NCT of Delhi,1,1,1.0
+manufacturing,pulp-and-paper,ch4,Odisha,1,1,1.0
+manufacturing,pulp-and-paper,ch4,Telangana,2,2,2.0
+manufacturing,pulp-and-paper,ch4,Uttar Pradesh,1,1,1.0
+manufacturing,pulp-and-paper,co2,Gujarat,1,1,1.0
+manufacturing,pulp-and-paper,co2,Haryana,1,1,1.0
+manufacturing,pulp-and-paper,co2,Karnataka,1,1,1.0
+manufacturing,pulp-and-paper,co2,Kerala,1,1,1.0
+manufacturing,pulp-and-paper,co2,Madhya Pradesh,1,1,1.0
+manufacturing,pulp-and-paper,co2,Maharashtra,2,2,2.0
+manufacturing,pulp-and-paper,co2,NCT of Delhi,1,1,1.0
+manufacturing,pulp-and-paper,co2,Odisha,1,1,1.0
+manufacturing,pulp-and-paper,co2,Telangana,2,2,2.0
+manufacturing,pulp-and-paper,co2,Uttar Pradesh,1,1,1.0
+manufacturing,pulp-and-paper,n2o,Gujarat,1,1,1.0
+manufacturing,pulp-and-paper,n2o,Haryana,1,1,1.0
+manufacturing,pulp-and-paper,n2o,Karnataka,1,1,1.0
+manufacturing,pulp-and-paper,n2o,Kerala,1,1,1.0
+manufacturing,pulp-and-paper,n2o,Madhya Pradesh,1,1,1.0
+manufacturing,pulp-and-paper,n2o,Maharashtra,2,2,2.0
+manufacturing,pulp-and-paper,n2o,NCT of Delhi,1,1,1.0
+manufacturing,pulp-and-paper,n2o,Odisha,1,1,1.0
+manufacturing,pulp-and-paper,n2o,Telangana,2,2,2.0
+manufacturing,pulp-and-paper,n2o,Uttar Pradesh,1,1,1.0
+manufacturing,textiles-leather-apparel,ch4,Andhra Pradesh,10,10,10.0
+manufacturing,textiles-leather-apparel,ch4,Dadra and Nagar Haveli,1,1,1.0
+manufacturing,textiles-leather-apparel,ch4,Daman and Diu,3,3,3.0
+manufacturing,textiles-leather-apparel,ch4,Gujarat,55,55,55.0
+manufacturing,textiles-leather-apparel,ch4,Haryana,101,101,101.0
+manufacturing,textiles-leather-apparel,ch4,Himachal Pradesh,3,3,3.0
+manufacturing,textiles-leather-apparel,ch4,Jammu and Kashmir,1,1,1.0
+manufacturing,textiles-leather-apparel,ch4,Jharkhand,1,1,1.0
+manufacturing,textiles-leather-apparel,ch4,Karnataka,64,64,64.0
+manufacturing,textiles-leather-apparel,ch4,Kerala,6,6,6.0
+manufacturing,textiles-leather-apparel,ch4,Madhya Pradesh,6,6,6.0
+manufacturing,textiles-leather-apparel,ch4,Maharashtra,30,30,30.0
+manufacturing,textiles-leather-apparel,ch4,NCT of Delhi,27,27,27.0
+manufacturing,textiles-leather-apparel,ch4,Punjab,35,35,35.0
+manufacturing,textiles-leather-apparel,ch4,Rajasthan,16,16,16.0
+manufacturing,textiles-leather-apparel,ch4,Tamil Nadu,243,243,243.0
+manufacturing,textiles-leather-apparel,ch4,Telangana,6,6,6.0
+manufacturing,textiles-leather-apparel,ch4,Uttar Pradesh,121,121,121.0
+manufacturing,textiles-leather-apparel,ch4,Uttarakhand,6,6,6.0
+manufacturing,textiles-leather-apparel,ch4,West Bengal,18,18,18.0
+manufacturing,textiles-leather-apparel,co2,Andhra Pradesh,10,10,10.0
+manufacturing,textiles-leather-apparel,co2,Dadra and Nagar Haveli,1,1,1.0
+manufacturing,textiles-leather-apparel,co2,Daman and Diu,3,3,3.0
+manufacturing,textiles-leather-apparel,co2,Gujarat,55,55,55.0
+manufacturing,textiles-leather-apparel,co2,Haryana,101,101,101.0
+manufacturing,textiles-leather-apparel,co2,Himachal Pradesh,3,3,3.0
+manufacturing,textiles-leather-apparel,co2,Jammu and Kashmir,1,1,1.0
+manufacturing,textiles-leather-apparel,co2,Jharkhand,1,1,1.0
+manufacturing,textiles-leather-apparel,co2,Karnataka,64,64,64.0
+manufacturing,textiles-leather-apparel,co2,Kerala,6,6,6.0
+manufacturing,textiles-leather-apparel,co2,Madhya Pradesh,6,6,6.0
+manufacturing,textiles-leather-apparel,co2,Maharashtra,30,30,30.0
+manufacturing,textiles-leather-apparel,co2,NCT of Delhi,27,27,27.0
+manufacturing,textiles-leather-apparel,co2,Punjab,35,35,35.0
+manufacturing,textiles-leather-apparel,co2,Rajasthan,16,16,16.0
+manufacturing,textiles-leather-apparel,co2,Tamil Nadu,243,243,243.0
+manufacturing,textiles-leather-apparel,co2,Telangana,6,6,6.0
+manufacturing,textiles-leather-apparel,co2,Uttar Pradesh,121,121,121.0
+manufacturing,textiles-leather-apparel,co2,Uttarakhand,6,6,6.0
+manufacturing,textiles-leather-apparel,co2,West Bengal,18,18,18.0
+manufacturing,textiles-leather-apparel,n2o,Andhra Pradesh,10,10,10.0
+manufacturing,textiles-leather-apparel,n2o,Dadra and Nagar Haveli,1,1,1.0
+manufacturing,textiles-leather-apparel,n2o,Daman and Diu,3,3,3.0
+manufacturing,textiles-leather-apparel,n2o,Gujarat,55,55,55.0
+manufacturing,textiles-leather-apparel,n2o,Haryana,101,101,101.0
+manufacturing,textiles-leather-apparel,n2o,Himachal Pradesh,3,3,3.0
+manufacturing,textiles-leather-apparel,n2o,Jammu and Kashmir,1,1,1.0
+manufacturing,textiles-leather-apparel,n2o,Jharkhand,1,1,1.0
+manufacturing,textiles-leather-apparel,n2o,Karnataka,64,64,64.0
+manufacturing,textiles-leather-apparel,n2o,Kerala,6,6,6.0
+manufacturing,textiles-leather-apparel,n2o,Madhya Pradesh,6,6,6.0
+manufacturing,textiles-leather-apparel,n2o,Maharashtra,30,30,30.0
+manufacturing,textiles-leather-apparel,n2o,NCT of Delhi,27,27,27.0
+manufacturing,textiles-leather-apparel,n2o,Punjab,35,35,35.0
+manufacturing,textiles-leather-apparel,n2o,Rajasthan,16,16,16.0
+manufacturing,textiles-leather-apparel,n2o,Tamil Nadu,243,243,243.0
+manufacturing,textiles-leather-apparel,n2o,Telangana,6,6,6.0
+manufacturing,textiles-leather-apparel,n2o,Uttar Pradesh,121,121,121.0
+manufacturing,textiles-leather-apparel,n2o,Uttarakhand,6,6,6.0
+manufacturing,textiles-leather-apparel,n2o,West Bengal,18,18,18.0
+power,electricity-generation,ch4,Andhra Pradesh,33,33,33.0
+power,electricity-generation,ch4,Assam,8,8,8.0
+power,electricity-generation,ch4,Bihar,8,8,8.0
+power,electricity-generation,ch4,Chhattisgarh,43,43,43.0
+power,electricity-generation,ch4,Goa,1,1,1.0
+power,electricity-generation,ch4,Gujarat,47,47,47.0
+power,electricity-generation,ch4,Haryana,11,11,11.0
+power,electricity-generation,ch4,Jharkhand,18,18,18.0
+power,electricity-generation,ch4,Karnataka,49,49,49.0
+power,electricity-generation,ch4,Kerala,5,5,5.0
+power,electricity-generation,ch4,Madhya Pradesh,33,33,33.0
+power,electricity-generation,ch4,Maharashtra,103,103,103.0
+power,electricity-generation,ch4,Manipur,1,1,1.0
+power,electricity-generation,ch4,NCT of Delhi,10,10,10.0
+power,electricity-generation,ch4,Odisha,34,34,34.0
+power,electricity-generation,ch4,Puducherry,1,1,1.0
+power,electricity-generation,ch4,Punjab,18,18,18.0
+power,electricity-generation,ch4,Rajasthan,41,41,41.0
+power,electricity-generation,ch4,Tamil Nadu,50,50,50.0
+power,electricity-generation,ch4,Telangana,13,13,13.0
+power,electricity-generation,ch4,Tripura,5,5,5.0
+power,electricity-generation,ch4,Uttar Pradesh,56,56,56.0
+power,electricity-generation,ch4,Uttarakhand,1,1,1.0
+power,electricity-generation,ch4,West Bengal,23,23,23.0
+power,electricity-generation,co2,Andhra Pradesh,33,33,33.0
+power,electricity-generation,co2,Assam,8,8,8.0
+power,electricity-generation,co2,Bihar,8,8,8.0
+power,electricity-generation,co2,Chhattisgarh,43,43,43.0
+power,electricity-generation,co2,Goa,1,1,1.0
+power,electricity-generation,co2,Gujarat,47,47,47.0
+power,electricity-generation,co2,Haryana,11,11,11.0
+power,electricity-generation,co2,Jharkhand,18,18,18.0
+power,electricity-generation,co2,Karnataka,49,49,49.0
+power,electricity-generation,co2,Kerala,5,5,5.0
+power,electricity-generation,co2,Madhya Pradesh,33,33,33.0
+power,electricity-generation,co2,Maharashtra,103,103,103.0
+power,electricity-generation,co2,Manipur,1,1,1.0
+power,electricity-generation,co2,NCT of Delhi,10,10,10.0
+power,electricity-generation,co2,Odisha,34,34,34.0
+power,electricity-generation,co2,Puducherry,1,1,1.0
+power,electricity-generation,co2,Punjab,18,18,18.0
+power,electricity-generation,co2,Rajasthan,41,41,41.0
+power,electricity-generation,co2,Tamil Nadu,50,50,50.0
+power,electricity-generation,co2,Telangana,13,13,13.0
+power,electricity-generation,co2,Tripura,5,5,5.0
+power,electricity-generation,co2,Uttar Pradesh,56,56,56.0
+power,electricity-generation,co2,Uttarakhand,1,1,1.0
+power,electricity-generation,co2,West Bengal,23,23,23.0
+power,electricity-generation,n2o,Andhra Pradesh,33,33,33.0
+power,electricity-generation,n2o,Assam,8,8,8.0
+power,electricity-generation,n2o,Bihar,8,8,8.0
+power,electricity-generation,n2o,Chhattisgarh,43,43,43.0
+power,electricity-generation,n2o,Goa,1,1,1.0
+power,electricity-generation,n2o,Gujarat,47,47,47.0
+power,electricity-generation,n2o,Haryana,11,11,11.0
+power,electricity-generation,n2o,Jharkhand,18,18,18.0
+power,electricity-generation,n2o,Karnataka,49,49,49.0
+power,electricity-generation,n2o,Kerala,5,5,5.0
+power,electricity-generation,n2o,Madhya Pradesh,33,33,33.0
+power,electricity-generation,n2o,Maharashtra,103,103,103.0
+power,electricity-generation,n2o,Manipur,1,1,1.0
+power,electricity-generation,n2o,NCT of Delhi,10,10,10.0
+power,electricity-generation,n2o,Odisha,34,34,34.0
+power,electricity-generation,n2o,Puducherry,1,1,1.0
+power,electricity-generation,n2o,Punjab,18,18,18.0
+power,electricity-generation,n2o,Rajasthan,41,41,41.0
+power,electricity-generation,n2o,Tamil Nadu,50,50,50.0
+power,electricity-generation,n2o,Telangana,13,13,13.0
+power,electricity-generation,n2o,Tripura,5,5,5.0
+power,electricity-generation,n2o,Uttar Pradesh,56,56,56.0
+power,electricity-generation,n2o,Uttarakhand,1,1,1.0
+power,electricity-generation,n2o,West Bengal,23,23,23.0
+transportation,domestic-aviation,ch4,Andaman and Nicobar,1,1,1.0
+transportation,domestic-aviation,ch4,Andhra Pradesh,6,6,6.0
+transportation,domestic-aviation,ch4,Arunachal Pradesh,4,4,4.0
+transportation,domestic-aviation,ch4,Assam,7,7,7.0
+transportation,domestic-aviation,ch4,Bihar,4,4,4.0
+transportation,domestic-aviation,ch4,Chandigarh,1,1,1.0
+transportation,domestic-aviation,ch4,Chhattisgarh,4,4,4.0
+transportation,domestic-aviation,ch4,Daman and Diu,1,1,1.0
+transportation,domestic-aviation,ch4,Goa,2,2,2.0
+transportation,domestic-aviation,ch4,Gujarat,11,11,11.0
+transportation,domestic-aviation,ch4,Haryana,1,1,1.0
+transportation,domestic-aviation,ch4,Himachal Pradesh,4,4,4.0
+transportation,domestic-aviation,ch4,Jammu and Kashmir,3,3,3.0
+transportation,domestic-aviation,ch4,Jharkhand,3,3,3.0
+transportation,domestic-aviation,ch4,Karnataka,9,9,9.0
+transportation,domestic-aviation,ch4,Kerala,4,4,4.0
+transportation,domestic-aviation,ch4,Lakshadweep,1,1,1.0
+transportation,domestic-aviation,ch4,Madhya Pradesh,7,7,7.0
+transportation,domestic-aviation,ch4,Maharashtra,14,14,14.0
+transportation,domestic-aviation,ch4,Manipur,1,1,1.0
+transportation,domestic-aviation,ch4,Meghalaya,1,1,1.0
+transportation,domestic-aviation,ch4,Mizoram,1,1,1.0
+transportation,domestic-aviation,ch4,NCT of Delhi,1,1,1.0
+transportation,domestic-aviation,ch4,Nagaland,1,1,1.0
+transportation,domestic-aviation,ch4,Odisha,5,5,5.0
+transportation,domestic-aviation,ch4,Punjab,5,5,5.0
+transportation,domestic-aviation,ch4,Rajasthan,6,6,6.0
+transportation,domestic-aviation,ch4,Sikkim,1,1,1.0
+transportation,domestic-aviation,ch4,Tamil Nadu,7,7,7.0
+transportation,domestic-aviation,ch4,Telangana,2,2,2.0
+transportation,domestic-aviation,ch4,Tripura,1,1,1.0
+transportation,domestic-aviation,ch4,Uttar Pradesh,16,16,16.0
+transportation,domestic-aviation,ch4,Uttarakhand,2,2,2.0
+transportation,domestic-aviation,ch4,West Bengal,4,4,4.0
+transportation,domestic-aviation,co2,Andaman and Nicobar,1,1,1.0
+transportation,domestic-aviation,co2,Andhra Pradesh,6,6,6.0
+transportation,domestic-aviation,co2,Arunachal Pradesh,4,4,4.0
+transportation,domestic-aviation,co2,Assam,7,7,7.0
+transportation,domestic-aviation,co2,Bihar,4,4,4.0
+transportation,domestic-aviation,co2,Chandigarh,1,1,1.0
+transportation,domestic-aviation,co2,Chhattisgarh,4,4,4.0
+transportation,domestic-aviation,co2,Daman and Diu,1,1,1.0
+transportation,domestic-aviation,co2,Goa,2,2,2.0
+transportation,domestic-aviation,co2,Gujarat,11,11,11.0
+transportation,domestic-aviation,co2,Haryana,1,1,1.0
+transportation,domestic-aviation,co2,Himachal Pradesh,4,4,4.0
+transportation,domestic-aviation,co2,Jammu and Kashmir,3,3,3.0
+transportation,domestic-aviation,co2,Jharkhand,3,3,3.0
+transportation,domestic-aviation,co2,Karnataka,9,9,9.0
+transportation,domestic-aviation,co2,Kerala,4,4,4.0
+transportation,domestic-aviation,co2,Lakshadweep,1,1,1.0
+transportation,domestic-aviation,co2,Madhya Pradesh,7,7,7.0
+transportation,domestic-aviation,co2,Maharashtra,14,14,14.0
+transportation,domestic-aviation,co2,Manipur,1,1,1.0
+transportation,domestic-aviation,co2,Meghalaya,1,1,1.0
+transportation,domestic-aviation,co2,Mizoram,1,1,1.0
+transportation,domestic-aviation,co2,NCT of Delhi,1,1,1.0
+transportation,domestic-aviation,co2,Nagaland,1,1,1.0
+transportation,domestic-aviation,co2,Odisha,5,5,5.0
+transportation,domestic-aviation,co2,Punjab,5,5,5.0
+transportation,domestic-aviation,co2,Rajasthan,6,6,6.0
+transportation,domestic-aviation,co2,Sikkim,1,1,1.0
+transportation,domestic-aviation,co2,Tamil Nadu,7,7,7.0
+transportation,domestic-aviation,co2,Telangana,2,2,2.0
+transportation,domestic-aviation,co2,Tripura,1,1,1.0
+transportation,domestic-aviation,co2,Uttar Pradesh,16,16,16.0
+transportation,domestic-aviation,co2,Uttarakhand,2,2,2.0
+transportation,domestic-aviation,co2,West Bengal,4,4,4.0
+transportation,domestic-aviation,n2o,Andaman and Nicobar,1,1,1.0
+transportation,domestic-aviation,n2o,Andhra Pradesh,6,6,6.0
+transportation,domestic-aviation,n2o,Arunachal Pradesh,4,4,4.0
+transportation,domestic-aviation,n2o,Assam,7,7,7.0
+transportation,domestic-aviation,n2o,Bihar,4,4,4.0
+transportation,domestic-aviation,n2o,Chandigarh,1,1,1.0
+transportation,domestic-aviation,n2o,Chhattisgarh,4,4,4.0
+transportation,domestic-aviation,n2o,Daman and Diu,1,1,1.0
+transportation,domestic-aviation,n2o,Goa,2,2,2.0
+transportation,domestic-aviation,n2o,Gujarat,11,11,11.0
+transportation,domestic-aviation,n2o,Haryana,1,1,1.0
+transportation,domestic-aviation,n2o,Himachal Pradesh,4,4,4.0
+transportation,domestic-aviation,n2o,Jammu and Kashmir,3,3,3.0
+transportation,domestic-aviation,n2o,Jharkhand,3,3,3.0
+transportation,domestic-aviation,n2o,Karnataka,9,9,9.0
+transportation,domestic-aviation,n2o,Kerala,4,4,4.0
+transportation,domestic-aviation,n2o,Lakshadweep,1,1,1.0
+transportation,domestic-aviation,n2o,Madhya Pradesh,7,7,7.0
+transportation,domestic-aviation,n2o,Maharashtra,14,14,14.0
+transportation,domestic-aviation,n2o,Manipur,1,1,1.0
+transportation,domestic-aviation,n2o,Meghalaya,1,1,1.0
+transportation,domestic-aviation,n2o,Mizoram,1,1,1.0
+transportation,domestic-aviation,n2o,NCT of Delhi,1,1,1.0
+transportation,domestic-aviation,n2o,Nagaland,1,1,1.0
+transportation,domestic-aviation,n2o,Odisha,5,5,5.0
+transportation,domestic-aviation,n2o,Punjab,5,5,5.0
+transportation,domestic-aviation,n2o,Rajasthan,6,6,6.0
+transportation,domestic-aviation,n2o,Sikkim,1,1,1.0
+transportation,domestic-aviation,n2o,Tamil Nadu,7,7,7.0
+transportation,domestic-aviation,n2o,Telangana,2,2,2.0
+transportation,domestic-aviation,n2o,Tripura,1,1,1.0
+transportation,domestic-aviation,n2o,Uttar Pradesh,16,16,16.0
+transportation,domestic-aviation,n2o,Uttarakhand,2,2,2.0
+transportation,domestic-aviation,n2o,West Bengal,4,4,4.0
+transportation,domestic-shipping,ch4,Andaman and Nicobar,3,3,3.0
+transportation,domestic-shipping,ch4,Andhra Pradesh,5,5,5.0
+transportation,domestic-shipping,ch4,Daman and Diu,1,1,1.0
+transportation,domestic-shipping,ch4,Goa,3,3,3.0
+transportation,domestic-shipping,ch4,Gujarat,38,38,38.0
+transportation,domestic-shipping,ch4,Karnataka,4,4,4.0
+transportation,domestic-shipping,ch4,Kerala,9,9,9.0
+transportation,domestic-shipping,ch4,Lakshadweep,3,3,3.0
+transportation,domestic-shipping,ch4,Maharashtra,25,25,25.0
+transportation,domestic-shipping,ch4,Odisha,5,5,5.0
+transportation,domestic-shipping,ch4,Puducherry,3,3,3.0
+transportation,domestic-shipping,ch4,Tamil Nadu,8,8,8.0
+transportation,domestic-shipping,ch4,West Bengal,6,6,6.0
+transportation,domestic-shipping,co2,Andaman and Nicobar,3,3,3.0
+transportation,domestic-shipping,co2,Andhra Pradesh,5,5,5.0
+transportation,domestic-shipping,co2,Daman and Diu,1,1,1.0
+transportation,domestic-shipping,co2,Goa,3,3,3.0
+transportation,domestic-shipping,co2,Gujarat,38,38,38.0
+transportation,domestic-shipping,co2,Karnataka,4,4,4.0
+transportation,domestic-shipping,co2,Kerala,9,9,9.0
+transportation,domestic-shipping,co2,Lakshadweep,3,3,3.0
+transportation,domestic-shipping,co2,Maharashtra,25,25,25.0
+transportation,domestic-shipping,co2,Odisha,5,5,5.0
+transportation,domestic-shipping,co2,Puducherry,3,3,3.0
+transportation,domestic-shipping,co2,Tamil Nadu,8,8,8.0
+transportation,domestic-shipping,co2,West Bengal,6,6,6.0
+transportation,domestic-shipping,n2o,Andaman and Nicobar,3,3,3.0
+transportation,domestic-shipping,n2o,Andhra Pradesh,5,5,5.0
+transportation,domestic-shipping,n2o,Daman and Diu,1,1,1.0
+transportation,domestic-shipping,n2o,Goa,3,3,3.0
+transportation,domestic-shipping,n2o,Gujarat,38,38,38.0
+transportation,domestic-shipping,n2o,Karnataka,4,4,4.0
+transportation,domestic-shipping,n2o,Kerala,9,9,9.0
+transportation,domestic-shipping,n2o,Lakshadweep,3,3,3.0
+transportation,domestic-shipping,n2o,Maharashtra,25,25,25.0
+transportation,domestic-shipping,n2o,Odisha,5,5,5.0
+transportation,domestic-shipping,n2o,Puducherry,3,3,3.0
+transportation,domestic-shipping,n2o,Tamil Nadu,8,8,8.0
+transportation,domestic-shipping,n2o,West Bengal,6,6,6.0
+transportation,international-aviation,ch4,Andaman and Nicobar,1,1,1.0
+transportation,international-aviation,ch4,Andhra Pradesh,2,2,2.0
+transportation,international-aviation,ch4,Assam,1,1,1.0
+transportation,international-aviation,ch4,Bihar,1,1,1.0
+transportation,international-aviation,ch4,Chandigarh,1,1,1.0
+transportation,international-aviation,ch4,Goa,2,2,2.0
+transportation,international-aviation,ch4,Gujarat,2,2,2.0
+transportation,international-aviation,ch4,Jammu and Kashmir,1,1,1.0
+transportation,international-aviation,ch4,Jharkhand,1,1,1.0
+transportation,international-aviation,ch4,Karnataka,2,2,2.0
+transportation,international-aviation,ch4,Kerala,4,4,4.0
+transportation,international-aviation,ch4,Madhya Pradesh,2,2,2.0
+transportation,international-aviation,ch4,Maharashtra,6,6,6.0
+transportation,international-aviation,ch4,NCT of Delhi,1,1,1.0
+transportation,international-aviation,ch4,Odisha,1,1,1.0
+transportation,international-aviation,ch4,Punjab,1,1,1.0
+transportation,international-aviation,ch4,Rajasthan,2,2,2.0
+transportation,international-aviation,ch4,Tamil Nadu,4,4,4.0
+transportation,international-aviation,ch4,Telangana,2,2,2.0
+transportation,international-aviation,ch4,Uttar Pradesh,3,3,3.0
+transportation,international-aviation,ch4,West Bengal,2,2,2.0
+transportation,international-aviation,co2,Andaman and Nicobar,1,1,1.0
+transportation,international-aviation,co2,Andhra Pradesh,2,2,2.0
+transportation,international-aviation,co2,Assam,1,1,1.0
+transportation,international-aviation,co2,Bihar,1,1,1.0
+transportation,international-aviation,co2,Chandigarh,1,1,1.0
+transportation,international-aviation,co2,Goa,2,2,2.0
+transportation,international-aviation,co2,Gujarat,2,2,2.0
+transportation,international-aviation,co2,Jammu and Kashmir,1,1,1.0
+transportation,international-aviation,co2,Jharkhand,1,1,1.0
+transportation,international-aviation,co2,Karnataka,2,2,2.0
+transportation,international-aviation,co2,Kerala,4,4,4.0
+transportation,international-aviation,co2,Madhya Pradesh,2,2,2.0
+transportation,international-aviation,co2,Maharashtra,6,6,6.0
+transportation,international-aviation,co2,NCT of Delhi,1,1,1.0
+transportation,international-aviation,co2,Odisha,1,1,1.0
+transportation,international-aviation,co2,Punjab,1,1,1.0
+transportation,international-aviation,co2,Rajasthan,2,2,2.0
+transportation,international-aviation,co2,Tamil Nadu,4,4,4.0
+transportation,international-aviation,co2,Telangana,2,2,2.0
+transportation,international-aviation,co2,Uttar Pradesh,3,3,3.0
+transportation,international-aviation,co2,West Bengal,2,2,2.0
+transportation,international-aviation,n2o,Andaman and Nicobar,1,1,1.0
+transportation,international-aviation,n2o,Andhra Pradesh,2,2,2.0
+transportation,international-aviation,n2o,Assam,1,1,1.0
+transportation,international-aviation,n2o,Bihar,1,1,1.0
+transportation,international-aviation,n2o,Chandigarh,1,1,1.0
+transportation,international-aviation,n2o,Goa,2,2,2.0
+transportation,international-aviation,n2o,Gujarat,2,2,2.0
+transportation,international-aviation,n2o,Jammu and Kashmir,1,1,1.0
+transportation,international-aviation,n2o,Jharkhand,1,1,1.0
+transportation,international-aviation,n2o,Karnataka,2,2,2.0
+transportation,international-aviation,n2o,Kerala,4,4,4.0
+transportation,international-aviation,n2o,Madhya Pradesh,2,2,2.0
+transportation,international-aviation,n2o,Maharashtra,6,6,6.0
+transportation,international-aviation,n2o,NCT of Delhi,1,1,1.0
+transportation,international-aviation,n2o,Odisha,1,1,1.0
+transportation,international-aviation,n2o,Punjab,1,1,1.0
+transportation,international-aviation,n2o,Rajasthan,2,2,2.0
+transportation,international-aviation,n2o,Tamil Nadu,4,4,4.0
+transportation,international-aviation,n2o,Telangana,2,2,2.0
+transportation,international-aviation,n2o,Uttar Pradesh,3,3,3.0
+transportation,international-aviation,n2o,West Bengal,2,2,2.0
+transportation,international-shipping,ch4,Andaman and Nicobar,3,3,3.0
+transportation,international-shipping,ch4,Andhra Pradesh,5,5,5.0
+transportation,international-shipping,ch4,Daman and Diu,1,1,1.0
+transportation,international-shipping,ch4,Goa,3,3,3.0
+transportation,international-shipping,ch4,Gujarat,37,37,37.0
+transportation,international-shipping,ch4,Karnataka,4,4,4.0
+transportation,international-shipping,ch4,Kerala,7,7,7.0
+transportation,international-shipping,ch4,Lakshadweep,3,3,3.0
+transportation,international-shipping,ch4,Maharashtra,21,21,21.0
+transportation,international-shipping,ch4,Odisha,5,5,5.0
+transportation,international-shipping,ch4,Puducherry,3,3,3.0
+transportation,international-shipping,ch4,Tamil Nadu,8,8,8.0
+transportation,international-shipping,ch4,West Bengal,6,6,6.0
+transportation,international-shipping,co2,Andaman and Nicobar,3,3,3.0
+transportation,international-shipping,co2,Andhra Pradesh,5,5,5.0
+transportation,international-shipping,co2,Daman and Diu,1,1,1.0
+transportation,international-shipping,co2,Goa,3,3,3.0
+transportation,international-shipping,co2,Gujarat,37,37,37.0
+transportation,international-shipping,co2,Karnataka,4,4,4.0
+transportation,international-shipping,co2,Kerala,7,7,7.0
+transportation,international-shipping,co2,Lakshadweep,3,3,3.0
+transportation,international-shipping,co2,Maharashtra,21,21,21.0
+transportation,international-shipping,co2,Odisha,5,5,5.0
+transportation,international-shipping,co2,Puducherry,3,3,3.0
+transportation,international-shipping,co2,Tamil Nadu,8,8,8.0
+transportation,international-shipping,co2,West Bengal,6,6,6.0
+transportation,international-shipping,n2o,Andaman and Nicobar,3,3,3.0
+transportation,international-shipping,n2o,Andhra Pradesh,5,5,5.0
+transportation,international-shipping,n2o,Daman and Diu,1,1,1.0
+transportation,international-shipping,n2o,Goa,3,3,3.0
+transportation,international-shipping,n2o,Gujarat,37,37,37.0
+transportation,international-shipping,n2o,Karnataka,4,4,4.0
+transportation,international-shipping,n2o,Kerala,7,7,7.0
+transportation,international-shipping,n2o,Lakshadweep,3,3,3.0
+transportation,international-shipping,n2o,Maharashtra,21,21,21.0
+transportation,international-shipping,n2o,Odisha,5,5,5.0
+transportation,international-shipping,n2o,Puducherry,3,3,3.0
+transportation,international-shipping,n2o,Tamil Nadu,8,8,8.0
+transportation,international-shipping,n2o,West Bengal,6,6,6.0
+transportation,road-transportation,ch4,Andaman and Nicobar,3,3,3.0
+transportation,road-transportation,ch4,Andhra Pradesh,13,13,13.0
+transportation,road-transportation,ch4,Arunachal Pradesh,22,22,22.0
+transportation,road-transportation,ch4,Assam,27,27,27.0
+transportation,road-transportation,ch4,Bihar,38,38,38.0
+transportation,road-transportation,ch4,Chandigarh,1,1,1.0
+transportation,road-transportation,ch4,Chhattisgarh,27,27,27.0
+transportation,road-transportation,ch4,Dadra and Nagar Haveli,1,1,1.0
+transportation,road-transportation,ch4,Daman and Diu,2,2,2.0
+transportation,road-transportation,ch4,Goa,2,2,2.0
+transportation,road-transportation,ch4,Gujarat,33,33,33.0
+transportation,road-transportation,ch4,Haryana,21,21,21.0
+transportation,road-transportation,ch4,Himachal Pradesh,15,15,15.0
+transportation,road-transportation,ch4,Jammu and Kashmir,22,22,22.0
+transportation,road-transportation,ch4,Jharkhand,24,24,24.0
+transportation,road-transportation,ch4,Karnataka,30,30,30.0
+transportation,road-transportation,ch4,Kerala,14,14,14.0
+transportation,road-transportation,ch4,Lakshadweep,1,1,1.0
+transportation,road-transportation,ch4,Madhya Pradesh,51,51,51.0
+transportation,road-transportation,ch4,Maharashtra,36,36,36.0
+transportation,road-transportation,ch4,Manipur,9,9,9.0
+transportation,road-transportation,ch4,Meghalaya,10,10,10.0
+transportation,road-transportation,ch4,Mizoram,8,8,8.0
+transportation,road-transportation,ch4,NCT of Delhi,1,1,1.0
+transportation,road-transportation,ch4,Nagaland,11,11,11.0
+transportation,road-transportation,ch4,Odisha,30,30,30.0
+transportation,road-transportation,ch4,Puducherry,4,4,4.0
+transportation,road-transportation,ch4,Punjab,22,22,22.0
+transportation,road-transportation,ch4,Rajasthan,33,33,33.0
+transportation,road-transportation,ch4,Sikkim,4,4,4.0
+transportation,road-transportation,ch4,Tamil Nadu,32,32,32.0
+transportation,road-transportation,ch4,Telangana,10,10,10.0
+transportation,road-transportation,ch4,Tripura,8,8,8.0
+transportation,road-transportation,ch4,Uttar Pradesh,75,75,75.0
+transportation,road-transportation,ch4,Uttarakhand,16,16,16.0
+transportation,road-transportation,ch4,West Bengal,20,20,20.0
+transportation,road-transportation,co2,Andaman and Nicobar,3,3,3.0
+transportation,road-transportation,co2,Andhra Pradesh,13,13,13.0
+transportation,road-transportation,co2,Arunachal Pradesh,22,22,22.0
+transportation,road-transportation,co2,Assam,27,27,27.0
+transportation,road-transportation,co2,Bihar,38,38,38.0
+transportation,road-transportation,co2,Chandigarh,1,1,1.0
+transportation,road-transportation,co2,Chhattisgarh,27,27,27.0
+transportation,road-transportation,co2,Dadra and Nagar Haveli,1,1,1.0
+transportation,road-transportation,co2,Daman and Diu,2,2,2.0
+transportation,road-transportation,co2,Goa,2,2,2.0
+transportation,road-transportation,co2,Gujarat,33,33,33.0
+transportation,road-transportation,co2,Haryana,21,21,21.0
+transportation,road-transportation,co2,Himachal Pradesh,15,15,15.0
+transportation,road-transportation,co2,Jammu and Kashmir,22,22,22.0
+transportation,road-transportation,co2,Jharkhand,24,24,24.0
+transportation,road-transportation,co2,Karnataka,30,30,30.0
+transportation,road-transportation,co2,Kerala,14,14,14.0
+transportation,road-transportation,co2,Lakshadweep,1,1,1.0
+transportation,road-transportation,co2,Madhya Pradesh,51,51,51.0
+transportation,road-transportation,co2,Maharashtra,36,36,36.0
+transportation,road-transportation,co2,Manipur,9,9,9.0
+transportation,road-transportation,co2,Meghalaya,10,10,10.0
+transportation,road-transportation,co2,Mizoram,8,8,8.0
+transportation,road-transportation,co2,NCT of Delhi,1,1,1.0
+transportation,road-transportation,co2,Nagaland,11,11,11.0
+transportation,road-transportation,co2,Odisha,30,30,30.0
+transportation,road-transportation,co2,Puducherry,4,4,4.0
+transportation,road-transportation,co2,Punjab,22,22,22.0
+transportation,road-transportation,co2,Rajasthan,33,33,33.0
+transportation,road-transportation,co2,Sikkim,4,4,4.0
+transportation,road-transportation,co2,Tamil Nadu,32,32,32.0
+transportation,road-transportation,co2,Telangana,10,10,10.0
+transportation,road-transportation,co2,Tripura,8,8,8.0
+transportation,road-transportation,co2,Uttar Pradesh,75,75,75.0
+transportation,road-transportation,co2,Uttarakhand,16,16,16.0
+transportation,road-transportation,co2,West Bengal,20,20,20.0
+transportation,road-transportation,n2o,Andaman and Nicobar,3,3,3.0
+transportation,road-transportation,n2o,Andhra Pradesh,13,13,13.0
+transportation,road-transportation,n2o,Arunachal Pradesh,22,22,22.0
+transportation,road-transportation,n2o,Assam,27,27,27.0
+transportation,road-transportation,n2o,Bihar,38,38,38.0
+transportation,road-transportation,n2o,Chandigarh,1,1,1.0
+transportation,road-transportation,n2o,Chhattisgarh,27,27,27.0
+transportation,road-transportation,n2o,Dadra and Nagar Haveli,1,1,1.0
+transportation,road-transportation,n2o,Daman and Diu,2,2,2.0
+transportation,road-transportation,n2o,Goa,2,2,2.0
+transportation,road-transportation,n2o,Gujarat,33,33,33.0
+transportation,road-transportation,n2o,Haryana,21,21,21.0
+transportation,road-transportation,n2o,Himachal Pradesh,15,15,15.0
+transportation,road-transportation,n2o,Jammu and Kashmir,22,22,22.0
+transportation,road-transportation,n2o,Jharkhand,24,24,24.0
+transportation,road-transportation,n2o,Karnataka,30,30,30.0
+transportation,road-transportation,n2o,Kerala,14,14,14.0
+transportation,road-transportation,n2o,Lakshadweep,1,1,1.0
+transportation,road-transportation,n2o,Madhya Pradesh,51,51,51.0
+transportation,road-transportation,n2o,Maharashtra,36,36,36.0
+transportation,road-transportation,n2o,Manipur,9,9,9.0
+transportation,road-transportation,n2o,Meghalaya,10,10,10.0
+transportation,road-transportation,n2o,Mizoram,8,8,8.0
+transportation,road-transportation,n2o,NCT of Delhi,1,1,1.0
+transportation,road-transportation,n2o,Nagaland,11,11,11.0
+transportation,road-transportation,n2o,Odisha,30,30,30.0
+transportation,road-transportation,n2o,Puducherry,4,4,4.0
+transportation,road-transportation,n2o,Punjab,22,22,22.0
+transportation,road-transportation,n2o,Rajasthan,33,33,33.0
+transportation,road-transportation,n2o,Sikkim,4,4,4.0
+transportation,road-transportation,n2o,Tamil Nadu,32,32,32.0
+transportation,road-transportation,n2o,Telangana,10,10,10.0
+transportation,road-transportation,n2o,Tripura,8,8,8.0
+transportation,road-transportation,n2o,Uttar Pradesh,75,75,75.0
+transportation,road-transportation,n2o,Uttarakhand,16,16,16.0
+transportation,road-transportation,n2o,West Bengal,20,20,20.0
