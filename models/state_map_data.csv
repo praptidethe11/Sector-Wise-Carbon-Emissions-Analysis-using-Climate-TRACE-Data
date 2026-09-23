@@ -1,0 +1,1291 @@
+state,sector,gas,year,value,asset_count
+Andaman and Nicobar,transportation,ch4,2021,7.7073422453446145,11
+Andaman and Nicobar,transportation,ch4,2022,8.128485479065661,11
+Andaman and Nicobar,transportation,ch4,2023,9.012450049310116,11
+Andaman and Nicobar,transportation,ch4,2024,8.589750933033244,11
+Andaman and Nicobar,transportation,ch4,2025,8.578465126023483,11
+Andaman and Nicobar,transportation,co2,2021,281306.6221528312,11
+Andaman and Nicobar,transportation,co2,2022,305743.66677903145,11
+Andaman and Nicobar,transportation,co2,2023,350857.48772470903,11
+Andaman and Nicobar,transportation,co2,2024,337830.3416077527,11
+Andaman and Nicobar,transportation,co2,2025,338174.4067118966,11
+Andaman and Nicobar,transportation,n2o,2021,14.41017395678393,11
+Andaman and Nicobar,transportation,n2o,2022,15.256095016185817,11
+Andaman and Nicobar,transportation,n2o,2023,17.770059710881696,11
+Andaman and Nicobar,transportation,n2o,2024,16.610313058270307,11
+Andaman and Nicobar,transportation,n2o,2025,16.539433589259843,11
+Andhra Pradesh,manufacturing,ch4,2021,1.279613373123627,39
+Andhra Pradesh,manufacturing,ch4,2022,1.5199047069131864,39
+Andhra Pradesh,manufacturing,ch4,2023,1.6047604342572026,39
+Andhra Pradesh,manufacturing,ch4,2024,1.6047604342572024,39
+Andhra Pradesh,manufacturing,ch4,2025,1.6047604342572024,39
+Andhra Pradesh,manufacturing,co2,2021,33134306.427913666,39
+Andhra Pradesh,manufacturing,co2,2022,38497213.25550116,39
+Andhra Pradesh,manufacturing,co2,2023,39375552.27710503,39
+Andhra Pradesh,manufacturing,co2,2024,39490031.146765955,39
+Andhra Pradesh,manufacturing,co2,2025,38430594.06944537,39
+Andhra Pradesh,manufacturing,n2o,2021,0.1649092154767735,39
+Andhra Pradesh,manufacturing,n2o,2022,0.1988187671386107,39
+Andhra Pradesh,manufacturing,n2o,2023,0.21490377252741,39
+Andhra Pradesh,manufacturing,n2o,2024,0.21490377252741,39
+Andhra Pradesh,manufacturing,n2o,2025,0.21490377252741,39
+Andhra Pradesh,power,ch4,2021,0.0,33
+Andhra Pradesh,power,ch4,2022,0.0,33
+Andhra Pradesh,power,ch4,2023,0.0,33
+Andhra Pradesh,power,ch4,2024,0.0,33
+Andhra Pradesh,power,ch4,2025,0.0,33
+Andhra Pradesh,power,co2,2021,52909103.612,33
+Andhra Pradesh,power,co2,2022,59534089.719,33
+Andhra Pradesh,power,co2,2023,67914515.232,33
+Andhra Pradesh,power,co2,2024,71517488.214,33
+Andhra Pradesh,power,co2,2025,73438678.016,33
+Andhra Pradesh,power,n2o,2021,0.0,33
+Andhra Pradesh,power,n2o,2022,0.0,33
+Andhra Pradesh,power,n2o,2023,0.0,33
+Andhra Pradesh,power,n2o,2024,0.0,33
+Andhra Pradesh,power,n2o,2025,0.0,33
+Andhra Pradesh,transportation,ch4,2021,402.8233593980952,31
+Andhra Pradesh,transportation,ch4,2022,424.0544969039936,31
+Andhra Pradesh,transportation,ch4,2023,462.1682780317799,31
+Andhra Pradesh,transportation,ch4,2024,517.2564099004986,31
+Andhra Pradesh,transportation,ch4,2025,551.0129375806,31
+Andhra Pradesh,transportation,co2,2021,8970708.029907225,31
+Andhra Pradesh,transportation,co2,2022,9607019.303818444,31
+Andhra Pradesh,transportation,co2,2023,10217672.935998252,31
+Andhra Pradesh,transportation,co2,2024,11095921.275462346,31
+Andhra Pradesh,transportation,co2,2025,11516974.9222058,31
+Andhra Pradesh,transportation,n2o,2021,494.44795853619,31
+Andhra Pradesh,transportation,n2o,2022,529.7368416173847,31
+Andhra Pradesh,transportation,n2o,2023,562.2721858601437,31
+Andhra Pradesh,transportation,n2o,2024,607.2312318969291,31
+Andhra Pradesh,transportation,n2o,2025,628.8343385524995,31
+Arunachal Pradesh,transportation,ch4,2021,14.982175009540828,26
+Arunachal Pradesh,transportation,ch4,2022,16.0412167986741,26
+Arunachal Pradesh,transportation,ch4,2023,18.114774638142,26
+Arunachal Pradesh,transportation,ch4,2024,19.6621913135066,26
+Arunachal Pradesh,transportation,ch4,2025,20.2963116980169,26
+Arunachal Pradesh,transportation,co2,2021,235482.13732659424,26
+Arunachal Pradesh,transportation,co2,2022,253626.75391538246,26
+Arunachal Pradesh,transportation,co2,2023,290644.3537453365,26
+Arunachal Pradesh,transportation,co2,2024,316478.5392599096,26
+Arunachal Pradesh,transportation,co2,2025,327495.1758715843,26
+Arunachal Pradesh,transportation,n2o,2021,13.768558290484295,26
+Arunachal Pradesh,transportation,n2o,2022,14.780030919378085,26
+Arunachal Pradesh,transportation,n2o,2023,16.79905041169751,26
+Arunachal Pradesh,transportation,n2o,2024,18.248525227384743,26
+Arunachal Pradesh,transportation,n2o,2025,18.855027350375035,26
+Assam,manufacturing,ch4,2021,667.4999999999999,7
+Assam,manufacturing,ch4,2022,629.9999999999999,7
+Assam,manufacturing,ch4,2023,607.4999999999999,7
+Assam,manufacturing,ch4,2024,645.1875,7
+Assam,manufacturing,ch4,2025,651.9904109001001,7
+Assam,manufacturing,co2,2021,981951.3574751596,7
+Assam,manufacturing,co2,2022,949542.9837121789,7
+Assam,manufacturing,co2,2023,1005900.284145032,7
+Assam,manufacturing,co2,2024,988269.9294555079,7
+Assam,manufacturing,co2,2025,968563.2622389137,7
+Assam,manufacturing,n2o,2021,0.0,7
+Assam,manufacturing,n2o,2022,0.0,7
+Assam,manufacturing,n2o,2023,0.0,7
+Assam,manufacturing,n2o,2024,0.0,7
+Assam,manufacturing,n2o,2025,0.0,7
+Assam,power,ch4,2021,0.0,8
+Assam,power,ch4,2022,0.0,8
+Assam,power,ch4,2023,0.0,8
+Assam,power,ch4,2024,0.0,8
+Assam,power,ch4,2025,0.0,8
+Assam,power,co2,2021,4608737.0,8
+Assam,power,co2,2022,4936444.0,8
+Assam,power,co2,2023,5052699.0,8
+Assam,power,co2,2024,4994144.6,8
+Assam,power,co2,2025,4731740.0,8
+Assam,power,n2o,2021,0.0,8
+Assam,power,n2o,2022,0.0,8
+Assam,power,n2o,2023,0.0,8
+Assam,power,n2o,2024,0.0,8
+Assam,power,n2o,2025,0.0,8
+Assam,transportation,ch4,2021,85.17124786489116,35
+Assam,transportation,ch4,2022,105.42656635438547,35
+Assam,transportation,ch4,2023,138.46596393283863,35
+Assam,transportation,ch4,2024,153.778433794639,35
+Assam,transportation,ch4,2025,160.35579734472626,35
+Assam,transportation,co2,2021,1637413.294403112,35
+Assam,transportation,co2,2022,1980424.0602194194,35
+Assam,transportation,co2,2023,2514271.172978601,35
+Assam,transportation,co2,2024,2765664.5687707565,35
+Assam,transportation,co2,2025,2883377.154801121,35
+Assam,transportation,n2o,2021,84.72035634649968,35
+Assam,transportation,n2o,2022,103.79379379060939,35
+Assam,transportation,n2o,2023,134.1484487997081,35
+Assam,transportation,n2o,2024,148.1435791148597,35
+Assam,transportation,n2o,2025,154.46398040512156,35
+Bihar,manufacturing,ch4,2021,0.0,1
+Bihar,manufacturing,ch4,2022,0.0,1
+Bihar,manufacturing,ch4,2023,0.0,1
+Bihar,manufacturing,ch4,2024,0.0,1
+Bihar,manufacturing,ch4,2025,0.0,1
+Bihar,manufacturing,co2,2021,364293.332062737,1
+Bihar,manufacturing,co2,2022,429230.9319746128,1
+Bihar,manufacturing,co2,2023,366533.7570135811,1
+Bihar,manufacturing,co2,2024,397844.1718534984,1
+Bihar,manufacturing,co2,2025,365426.3711163696,1
+Bihar,manufacturing,n2o,2021,0.0,1
+Bihar,manufacturing,n2o,2022,0.0,1
+Bihar,manufacturing,n2o,2023,0.0,1
+Bihar,manufacturing,n2o,2024,0.0,1
+Bihar,manufacturing,n2o,2025,0.0,1
+Bihar,power,ch4,2021,0.0,8
+Bihar,power,ch4,2022,0.0,8
+Bihar,power,ch4,2023,0.0,8
+Bihar,power,ch4,2024,0.0,8
+Bihar,power,ch4,2025,0.0,8
+Bihar,power,co2,2021,40517500.0,8
+Bihar,power,co2,2022,52469400.0,8
+Bihar,power,co2,2023,55496300.0,8
+Bihar,power,co2,2024,58930800.0,8
+Bihar,power,co2,2025,57128094.0,8
+Bihar,power,n2o,2021,0.0,8
+Bihar,power,n2o,2022,0.0,8
+Bihar,power,n2o,2023,0.0,8
+Bihar,power,n2o,2024,0.0,8
+Bihar,power,n2o,2025,0.0,8
+Bihar,transportation,ch4,2021,203.62979535519634,43
+Bihar,transportation,ch4,2022,384.23256708816666,43
+Bihar,transportation,ch4,2023,432.7608682202088,43
+Bihar,transportation,ch4,2024,444.95118224925307,43
+Bihar,transportation,ch4,2025,452.9515975491101,43
+Bihar,transportation,co2,2021,3577373.2018562313,43
+Bihar,transportation,co2,2022,6567318.840937465,43
+Bihar,transportation,co2,2023,7292694.77925976,43
+Bihar,transportation,co2,2024,7524310.921254317,43
+Bihar,transportation,co2,2025,7708755.000108798,43
+Bihar,transportation,n2o,2021,193.04107379790017,43
+Bihar,transportation,n2o,2022,358.1968317637049,43
+Bihar,transportation,n2o,2023,401.86700527971936,43
+Bihar,transportation,n2o,2024,412.79626982228837,43
+Bihar,transportation,n2o,2025,421.359862696359,43
+Chandigarh,transportation,ch4,2021,12.929517098131075,3
+Chandigarh,transportation,ch4,2022,13.82756859740254,3
+Chandigarh,transportation,ch4,2023,14.390191351419743,3
+Chandigarh,transportation,ch4,2024,14.375352660327898,3
+Chandigarh,transportation,ch4,2025,14.197371111107998,3
+Chandigarh,transportation,co2,2021,324596.23123002396,3
+Chandigarh,transportation,co2,2022,378151.17305392626,3
+Chandigarh,transportation,co2,2023,376797.83824993967,3
+Chandigarh,transportation,co2,2024,371844.30991303653,3
+Chandigarh,transportation,co2,2025,364692.0722154634,3
+Chandigarh,transportation,n2o,2021,14.639986470195744,3
+Chandigarh,transportation,n2o,2022,16.389060127109467,3
+Chandigarh,transportation,n2o,2023,16.703586678518363,3
+Chandigarh,transportation,n2o,2024,16.51637724672817,3
+Chandigarh,transportation,n2o,2025,16.249302523114732,3
+Chhattisgarh,manufacturing,ch4,2021,0.0,23
+Chhattisgarh,manufacturing,ch4,2022,0.0,23
+Chhattisgarh,manufacturing,ch4,2023,0.0,23
+Chhattisgarh,manufacturing,ch4,2024,0.0,23
+Chhattisgarh,manufacturing,ch4,2025,0.0,23
+Chhattisgarh,manufacturing,co2,2021,40887958.78413287,23
+Chhattisgarh,manufacturing,co2,2022,42007757.06750463,23
+Chhattisgarh,manufacturing,co2,2023,45594115.94854146,23
+Chhattisgarh,manufacturing,co2,2024,45828609.261189826,23
+Chhattisgarh,manufacturing,co2,2025,46194254.63730489,23
+Chhattisgarh,manufacturing,n2o,2021,0.0,23
+Chhattisgarh,manufacturing,n2o,2022,0.0,23
+Chhattisgarh,manufacturing,n2o,2023,0.0,23
+Chhattisgarh,manufacturing,n2o,2024,0.0,23
+Chhattisgarh,manufacturing,n2o,2025,0.0,23
+Chhattisgarh,power,ch4,2021,0.0,43
+Chhattisgarh,power,ch4,2022,0.0,43
+Chhattisgarh,power,ch4,2023,0.0,43
+Chhattisgarh,power,ch4,2024,0.0,43
+Chhattisgarh,power,ch4,2025,0.0,43
+Chhattisgarh,power,co2,2021,150002253.60999998,43
+Chhattisgarh,power,co2,2022,150029824.75000003,43
+Chhattisgarh,power,co2,2023,173100462.4,43
+Chhattisgarh,power,co2,2024,176981144.35000002,43
+Chhattisgarh,power,co2,2025,177710012.69,43
+Chhattisgarh,power,n2o,2021,0.0,43
+Chhattisgarh,power,n2o,2022,0.0,43
+Chhattisgarh,power,n2o,2023,0.0,43
+Chhattisgarh,power,n2o,2024,0.0,43
+Chhattisgarh,power,n2o,2025,0.0,43
+Chhattisgarh,transportation,ch4,2021,100.3178107827871,31
+Chhattisgarh,transportation,ch4,2022,106.31877583297086,31
+Chhattisgarh,transportation,ch4,2023,115.50428930542085,31
+Chhattisgarh,transportation,ch4,2024,124.37102229828483,31
+Chhattisgarh,transportation,ch4,2025,132.31668993682268,31
+Chhattisgarh,transportation,co2,2021,1720564.5016969899,31
+Chhattisgarh,transportation,co2,2022,1838443.8991043838,31
+Chhattisgarh,transportation,co2,2023,1977730.0608718502,31
+Chhattisgarh,transportation,co2,2024,2135834.029174653,31
+Chhattisgarh,transportation,co2,2025,2275096.1899388665,31
+Chhattisgarh,transportation,n2o,2021,93.77410150700875,31
+Chhattisgarh,transportation,n2o,2022,99.65723903258515,31
+Chhattisgarh,transportation,n2o,2023,107.91488899107334,31
+Chhattisgarh,transportation,n2o,2024,116.05595853197417,31
+Chhattisgarh,transportation,n2o,2025,123.51448575044476,31
+Dadra and Nagar Haveli,manufacturing,ch4,2021,0.1279613373123626,1
+Dadra and Nagar Haveli,manufacturing,ch4,2022,0.1519904706913186,1
+Dadra and Nagar Haveli,manufacturing,ch4,2023,0.1604760434257202,1
+Dadra and Nagar Haveli,manufacturing,ch4,2024,0.1604760434257202,1
+Dadra and Nagar Haveli,manufacturing,ch4,2025,0.1604760434257202,1
+Dadra and Nagar Haveli,manufacturing,co2,2021,758.4722166938545,1
+Dadra and Nagar Haveli,manufacturing,co2,2022,856.4975593461983,1
+Dadra and Nagar Haveli,manufacturing,co2,2023,902.339829554526,1
+Dadra and Nagar Haveli,manufacturing,co2,2024,902.339829554526,1
+Dadra and Nagar Haveli,manufacturing,co2,2025,902.339829554526,1
+Dadra and Nagar Haveli,manufacturing,n2o,2021,0.0164909215476773,1
+Dadra and Nagar Haveli,manufacturing,n2o,2022,0.019881876713861,1
+Dadra and Nagar Haveli,manufacturing,n2o,2023,0.021490377252741,1
+Dadra and Nagar Haveli,manufacturing,n2o,2024,0.021490377252741,1
+Dadra and Nagar Haveli,manufacturing,n2o,2025,0.021490377252741,1
+Dadra and Nagar Haveli,transportation,ch4,2021,1.396076981836319,1
+Dadra and Nagar Haveli,transportation,ch4,2022,1.4932881733377672,1
+Dadra and Nagar Haveli,transportation,ch4,2023,1.6252201450440376,1
+Dadra and Nagar Haveli,transportation,ch4,2024,2.063922039407799,1
+Dadra and Nagar Haveli,transportation,ch4,2025,2.1791381756892028,1
+Dadra and Nagar Haveli,transportation,co2,2021,22975.932991062706,1
+Dadra and Nagar Haveli,transportation,co2,2022,24707.11692419218,1
+Dadra and Nagar Haveli,transportation,co2,2023,26797.549113967663,1
+Dadra and Nagar Haveli,transportation,co2,2024,34278.94276271509,1
+Dadra and Nagar Haveli,transportation,co2,2025,36177.09102337279,1
+Dadra and Nagar Haveli,transportation,n2o,2021,1.2817657981170454,1
+Dadra and Nagar Haveli,transportation,n2o,2022,1.3718548012472402,1
+Dadra and Nagar Haveli,transportation,n2o,2023,1.4938151799288513,1
+Dadra and Nagar Haveli,transportation,n2o,2024,1.8970464290999431,1
+Dadra and Nagar Haveli,transportation,n2o,2025,2.0029469213346416,1
+Daman and Diu,manufacturing,ch4,2021,0.3838840119370881,3
+Daman and Diu,manufacturing,ch4,2022,0.4559714120739558,3
+Daman and Diu,manufacturing,ch4,2023,0.4814281302771608,3
+Daman and Diu,manufacturing,ch4,2024,0.4814281302771608,3
+Daman and Diu,manufacturing,ch4,2025,0.4814281302771608,3
+Daman and Diu,manufacturing,co2,2021,2275.416650081564,3
+Daman and Diu,manufacturing,co2,2022,2569.492678038595,3
+Daman and Diu,manufacturing,co2,2023,2707.019488663578,3
+Daman and Diu,manufacturing,co2,2024,2707.019488663578,3
+Daman and Diu,manufacturing,co2,2025,2707.019488663578,3
+Daman and Diu,manufacturing,n2o,2021,0.049472764643032,3
+Daman and Diu,manufacturing,n2o,2022,0.0596456301415832,3
+Daman and Diu,manufacturing,n2o,2023,0.064471131758223,3
+Daman and Diu,manufacturing,n2o,2024,0.064471131758223,3
+Daman and Diu,manufacturing,n2o,2025,0.064471131758223,3
+Daman and Diu,transportation,ch4,2021,1.417443063687206,5
+Daman and Diu,transportation,ch4,2022,1.5462974494059858,5
+Daman and Diu,transportation,ch4,2023,1.6601088021631218,5
+Daman and Diu,transportation,ch4,2024,1.6955074700952277,5
+Daman and Diu,transportation,ch4,2025,1.7550921478574162,5
+Daman and Diu,transportation,co2,2021,24019.611277768516,5
+Daman and Diu,transportation,co2,2022,26224.464030589264,5
+Daman and Diu,transportation,co2,2023,28196.70103409374,5
+Daman and Diu,transportation,co2,2024,29896.439272504464,5
+Daman and Diu,transportation,co2,2025,32015.893852913963,5
+Daman and Diu,transportation,n2o,2021,1.3163092918802737,5
+Daman and Diu,transportation,n2o,2022,1.4344357544658801,5
+Daman and Diu,transportation,n2o,2023,1.5430414680650058,5
+Daman and Diu,transportation,n2o,2024,1.5993398286704557,5
+Daman and Diu,transportation,n2o,2025,1.6812465611426983,5
+Goa,manufacturing,ch4,2021,0.0,1
+Goa,manufacturing,ch4,2022,0.0,1
+Goa,manufacturing,ch4,2023,0.0,1
+Goa,manufacturing,ch4,2024,0.0,1
+Goa,manufacturing,ch4,2025,0.0,1
+Goa,manufacturing,co2,2021,2406759.975266089,1
+Goa,manufacturing,co2,2022,2725009.2281938368,1
+Goa,manufacturing,co2,2023,3043258.4811215834,1
+Goa,manufacturing,co2,2024,2983586.746197631,1
+Goa,manufacturing,co2,2025,2983586.746197631,1
+Goa,manufacturing,n2o,2021,0.0,1
+Goa,manufacturing,n2o,2022,0.0,1
+Goa,manufacturing,n2o,2023,0.0,1
+Goa,manufacturing,n2o,2024,0.0,1
+Goa,manufacturing,n2o,2025,0.0,1
+Goa,power,ch4,2021,0.0,1
+Goa,power,ch4,2022,0.0,1
+Goa,power,ch4,2023,0.0,1
+Goa,power,ch4,2024,0.0,1
+Goa,power,ch4,2025,0.0,1
+Goa,power,co2,2021,0.0,1
+Goa,power,co2,2022,0.0,1
+Goa,power,co2,2023,0.0,1
+Goa,power,co2,2024,0.0,1
+Goa,power,co2,2025,0.0,1
+Goa,power,n2o,2021,0.0,1
+Goa,power,n2o,2022,0.0,1
+Goa,power,n2o,2023,0.0,1
+Goa,power,n2o,2024,0.0,1
+Goa,power,n2o,2025,0.0,1
+Goa,transportation,ch4,2021,23.82202875629732,12
+Goa,transportation,ch4,2022,28.093666509708676,12
+Goa,transportation,ch4,2023,30.208025568032348,12
+Goa,transportation,ch4,2024,30.91200616294471,12
+Goa,transportation,ch4,2025,32.1624017246452,12
+Goa,transportation,co2,2021,856923.2410220136,12
+Goa,transportation,co2,2022,1045615.7400129208,12
+Goa,transportation,co2,2023,1147715.2591131814,12
+Goa,transportation,co2,2024,1132808.8989416622,12
+Goa,transportation,co2,2025,1148102.0589097384,12
+Goa,transportation,n2o,2021,40.619711419297374,12
+Goa,transportation,n2o,2022,48.74174507945394,12
+Goa,transportation,n2o,2023,52.03722009297854,12
+Goa,transportation,n2o,2024,51.23249051218742,12
+Goa,transportation,n2o,2025,52.624168455974186,12
+Gujarat,manufacturing,ch4,2021,17062.845517252175,81
+Gujarat,manufacturing,ch4,2022,16103.709529488015,81
+Gujarat,manufacturing,ch4,2023,15478.76270258841,81
+Gujarat,manufacturing,ch4,2024,16512.72243238841,81
+Gujarat,manufacturing,ch4,2025,16686.740894288214,81
+Gujarat,manufacturing,co2,2021,42932960.73199101,81
+Gujarat,manufacturing,co2,2022,43097256.38282614,81
+Gujarat,manufacturing,co2,2023,44050330.439574905,81
+Gujarat,manufacturing,co2,2024,45023786.13352807,81
+Gujarat,manufacturing,co2,2025,44145484.556790434,81
+Gujarat,manufacturing,n2o,2021,0.9070006851222552,81
+Gujarat,manufacturing,n2o,2022,1.0935032192623595,81
+Gujarat,manufacturing,n2o,2023,1.1819707489007567,81
+Gujarat,manufacturing,n2o,2024,1.1819707489007567,81
+Gujarat,manufacturing,n2o,2025,1.1819707489007567,81
+Gujarat,power,ch4,2021,0.0,47
+Gujarat,power,ch4,2022,0.0,47
+Gujarat,power,ch4,2023,0.0,47
+Gujarat,power,ch4,2024,0.0,47
+Gujarat,power,ch4,2025,0.0,47
+Gujarat,power,co2,2021,75381537.0,47
+Gujarat,power,co2,2022,69885547.3,47
+Gujarat,power,co2,2023,85667344.4,47
+Gujarat,power,co2,2024,103294778.6,47
+Gujarat,power,co2,2025,86667181.3,47
+Gujarat,power,n2o,2021,0.0,47
+Gujarat,power,n2o,2022,0.0,47
+Gujarat,power,n2o,2023,0.0,47
+Gujarat,power,n2o,2024,0.0,47
+Gujarat,power,n2o,2025,0.0,47
+Gujarat,transportation,ch4,2021,1197.6573002035964,121
+Gujarat,transportation,ch4,2022,1223.817485771791,121
+Gujarat,transportation,ch4,2023,1474.55649198813,121
+Gujarat,transportation,ch4,2024,1455.8776042499917,121
+Gujarat,transportation,ch4,2025,1301.5735890520755,121
+Gujarat,transportation,co2,2021,14119343.490713216,121
+Gujarat,transportation,co2,2022,15542442.594337448,121
+Gujarat,transportation,co2,2023,16612640.83038446,121
+Gujarat,transportation,co2,2024,18205874.639893692,121
+Gujarat,transportation,co2,2025,17542762.585645944,121
+Gujarat,transportation,n2o,2021,776.693573516214,121
+Gujarat,transportation,n2o,2022,850.9378440689229,121
+Gujarat,transportation,n2o,2023,908.8683821205049,121
+Gujarat,transportation,n2o,2024,994.4099545541803,121
+Gujarat,transportation,n2o,2025,952.6813341153852,121
+Haryana,manufacturing,ch4,2021,3440.384026068548,105
+Haryana,manufacturing,ch4,2022,3249.676733539821,105
+Haryana,manufacturing,ch4,2023,3122.0699373859957,105
+Haryana,manufacturing,ch4,2024,3333.7622053859977,105
+Haryana,manufacturing,ch4,2025,3368.742773585998,105
+Haryana,manufacturing,co2,2021,1754494.9038875496,105
+Haryana,manufacturing,co2,2022,1704225.415439004,105
+Haryana,manufacturing,co2,2023,1669757.5286961326,105
+Haryana,manufacturing,co2,2024,1730512.7969843252,105
+Haryana,manufacturing,co2,2025,1742693.0916017594,105
+Haryana,manufacturing,n2o,2021,1.6655830763154154,105
+Haryana,manufacturing,n2o,2022,2.00806954809997,105
+Haryana,manufacturing,n2o,2023,2.170528102526845,105
+Haryana,manufacturing,n2o,2024,2.170528102526845,105
+Haryana,manufacturing,n2o,2025,2.170528102526845,105
+Haryana,power,ch4,2021,0.0,11
+Haryana,power,ch4,2022,0.0,11
+Haryana,power,ch4,2023,0.0,11
+Haryana,power,ch4,2024,0.0,11
+Haryana,power,ch4,2025,0.0,11
+Haryana,power,co2,2021,21539499.5,11
+Haryana,power,co2,2022,30475853.32,11
+Haryana,power,co2,2023,28011537.62,11
+Haryana,power,co2,2024,29382829.45,11
+Haryana,power,co2,2025,25478860.25,11
+Haryana,power,n2o,2021,0.0,11
+Haryana,power,n2o,2022,0.0,11
+Haryana,power,n2o,2023,0.0,11
+Haryana,power,n2o,2024,0.0,11
+Haryana,power,n2o,2025,0.0,11
+Haryana,transportation,ch4,2021,205.9384218057903,22
+Haryana,transportation,ch4,2022,247.99828024669435,22
+Haryana,transportation,ch4,2023,327.19740189844714,22
+Haryana,transportation,ch4,2024,348.6186971194894,22
+Haryana,transportation,ch4,2025,356.0483949523666,22
+Haryana,transportation,co2,2021,3400041.0887896493,22
+Haryana,transportation,co2,2022,4120470.316014493,22
+Haryana,transportation,co2,2023,5394486.316252724,22
+Haryana,transportation,co2,2024,5801227.994528007,22
+Haryana,transportation,co2,2025,5923239.554648937,22
+Haryana,transportation,n2o,2021,189.07612475757568,22
+Haryana,transportation,n2o,2022,227.83574431208947,22
+Haryana,transportation,n2o,2023,300.7423008382274,22
+Haryana,transportation,n2o,2024,320.4316063593963,22
+Haryana,transportation,n2o,2025,327.2680736565145,22
+Himachal Pradesh,manufacturing,ch4,2021,0.383884011937088,7
+Himachal Pradesh,manufacturing,ch4,2022,0.4559714120739557,7
+Himachal Pradesh,manufacturing,ch4,2023,0.4814281302771608,7
+Himachal Pradesh,manufacturing,ch4,2024,0.4814281302771607,7
+Himachal Pradesh,manufacturing,ch4,2025,0.4814281302771608,7
+Himachal Pradesh,manufacturing,co2,2021,5101771.157057934,7
+Himachal Pradesh,manufacturing,co2,2022,4679034.662160351,7
+Himachal Pradesh,manufacturing,co2,2023,4147926.3519012076,7
+Himachal Pradesh,manufacturing,co2,2024,3879263.614614274,7
+Himachal Pradesh,manufacturing,co2,2025,4177696.4193460234,7
+Himachal Pradesh,manufacturing,n2o,2021,0.049472764643032,7
+Himachal Pradesh,manufacturing,n2o,2022,0.0596456301415832,7
+Himachal Pradesh,manufacturing,n2o,2023,0.064471131758223,7
+Himachal Pradesh,manufacturing,n2o,2024,0.064471131758223,7
+Himachal Pradesh,manufacturing,n2o,2025,0.064471131758223,7
+Himachal Pradesh,transportation,ch4,2021,29.20748424824458,19
+Himachal Pradesh,transportation,ch4,2022,33.87158498497841,19
+Himachal Pradesh,transportation,ch4,2023,43.85096513601244,19
+Himachal Pradesh,transportation,ch4,2024,47.87195357293531,19
+Himachal Pradesh,transportation,ch4,2025,49.18176869369637,19
+Himachal Pradesh,transportation,co2,2021,466144.1429944896,19
+Himachal Pradesh,transportation,co2,2022,541836.0734034253,19
+Himachal Pradesh,transportation,co2,2023,699110.5231376919,19
+Himachal Pradesh,transportation,co2,2024,767616.2227863376,19
+Himachal Pradesh,transportation,co2,2025,787984.4546943515,19
+Himachal Pradesh,transportation,n2o,2021,26.927783368532815,19
+Himachal Pradesh,transportation,n2o,2022,31.247442390289393,19
+Himachal Pradesh,transportation,n2o,2023,40.44413162803887,19
+Himachal Pradesh,transportation,n2o,2024,44.16175407880745,19
+Himachal Pradesh,transportation,n2o,2025,45.35463643071104,19
+Jammu and Kashmir,manufacturing,ch4,2021,0.1279613373123627,4
+Jammu and Kashmir,manufacturing,ch4,2022,0.1519904706913186,4
+Jammu and Kashmir,manufacturing,ch4,2023,0.1604760434257202,4
+Jammu and Kashmir,manufacturing,ch4,2024,0.1604760434257202,4
+Jammu and Kashmir,manufacturing,ch4,2025,0.1604760434257202,4
+Jammu and Kashmir,manufacturing,co2,2021,608019.0915681858,4
+Jammu and Kashmir,manufacturing,co2,2022,539598.6543567163,4
+Jammu and Kashmir,manufacturing,co2,2023,459336.831938712,4
+Jammu and Kashmir,manufacturing,co2,2024,554363.0575579852,4
+Jammu and Kashmir,manufacturing,co2,2025,498106.73676052596,4
+Jammu and Kashmir,manufacturing,n2o,2021,0.0164909215476773,4
+Jammu and Kashmir,manufacturing,n2o,2022,0.019881876713861,4
+Jammu and Kashmir,manufacturing,n2o,2023,0.021490377252741,4
+Jammu and Kashmir,manufacturing,n2o,2024,0.021490377252741,4
+Jammu and Kashmir,manufacturing,n2o,2025,0.021490377252741,4
+Jammu and Kashmir,transportation,ch4,2021,50.51475961749337,26
+Jammu and Kashmir,transportation,ch4,2022,57.76115513643229,26
+Jammu and Kashmir,transportation,ch4,2023,80.9693175909903,26
+Jammu and Kashmir,transportation,ch4,2024,86.35615840816438,26
+Jammu and Kashmir,transportation,ch4,2025,86.73918230293005,26
+Jammu and Kashmir,transportation,co2,2021,1000774.103643406,26
+Jammu and Kashmir,transportation,co2,2022,1143562.4428760153,26
+Jammu and Kashmir,transportation,co2,2023,1463550.1926091802,26
+Jammu and Kashmir,transportation,co2,2024,1563638.6635418031,26
+Jammu and Kashmir,transportation,co2,2025,1539855.991139379,26
+Jammu and Kashmir,transportation,n2o,2021,51.25143800357632,26
+Jammu and Kashmir,transportation,n2o,2022,58.57875201809132,26
+Jammu and Kashmir,transportation,n2o,2023,78.64385342660222,26
+Jammu and Kashmir,transportation,n2o,2024,83.81375596703866,26
+Jammu and Kashmir,transportation,n2o,2025,83.44163895217014,26
+Jharkhand,manufacturing,ch4,2021,0.1279613373123627,9
+Jharkhand,manufacturing,ch4,2022,0.1519904706913186,9
+Jharkhand,manufacturing,ch4,2023,0.1604760434257202,9
+Jharkhand,manufacturing,ch4,2024,0.1604760434257202,9
+Jharkhand,manufacturing,ch4,2025,0.1604760434257202,9
+Jharkhand,manufacturing,co2,2021,25673770.108588163,9
+Jharkhand,manufacturing,co2,2022,25135202.30622272,9
+Jharkhand,manufacturing,co2,2023,26229460.828848355,9
+Jharkhand,manufacturing,co2,2024,25255367.47901174,9
+Jharkhand,manufacturing,co2,2025,25817486.081553303,9
+Jharkhand,manufacturing,n2o,2021,0.0164909215476773,9
+Jharkhand,manufacturing,n2o,2022,0.019881876713861,9
+Jharkhand,manufacturing,n2o,2023,0.021490377252741,9
+Jharkhand,manufacturing,n2o,2024,0.021490377252741,9
+Jharkhand,manufacturing,n2o,2025,0.021490377252741,9
+Jharkhand,power,ch4,2021,0.0,18
+Jharkhand,power,ch4,2022,0.0,18
+Jharkhand,power,ch4,2023,0.0,18
+Jharkhand,power,ch4,2024,0.0,18
+Jharkhand,power,ch4,2025,0.0,18
+Jharkhand,power,co2,2021,34128230.0,18
+Jharkhand,power,co2,2022,36767040.0,18
+Jharkhand,power,co2,2023,47286523.0,18
+Jharkhand,power,co2,2024,52157860.0,18
+Jharkhand,power,co2,2025,51344686.0,18
+Jharkhand,power,n2o,2021,0.0,18
+Jharkhand,power,n2o,2022,0.0,18
+Jharkhand,power,n2o,2023,0.0,18
+Jharkhand,power,n2o,2024,0.0,18
+Jharkhand,power,n2o,2025,0.0,18
+Jharkhand,transportation,ch4,2021,66.48677014335574,28
+Jharkhand,transportation,ch4,2022,115.23029698882702,28
+Jharkhand,transportation,ch4,2023,133.41370475264222,28
+Jharkhand,transportation,ch4,2024,138.82752033981393,28
+Jharkhand,transportation,ch4,2025,142.45126089766742,28
+Jharkhand,transportation,co2,2021,1185662.9997880594,28
+Jharkhand,transportation,co2,2022,1993431.3652810538,28
+Jharkhand,transportation,co2,2023,2277415.60611495,28
+Jharkhand,transportation,co2,2024,2370184.520590088,28
+Jharkhand,transportation,co2,2025,2435724.0211399277,28
+Jharkhand,transportation,n2o,2021,63.70572637914535,28
+Jharkhand,transportation,n2o,2022,108.52936420790365,28
+Jharkhand,transportation,n2o,2023,125.02812397410969,28
+Jharkhand,transportation,n2o,2024,129.95095618762778,28
+Jharkhand,transportation,n2o,2025,133.40943848678654,28
+Karnataka,manufacturing,ch4,2021,8.189525587991218,82
+Karnataka,manufacturing,ch4,2022,9.727390124244383,82
+Karnataka,manufacturing,ch4,2023,10.2704667792461,82
+Karnataka,manufacturing,ch4,2024,10.2704667792461,82
+Karnataka,manufacturing,ch4,2025,10.2704667792461,82
+Karnataka,manufacturing,co2,2021,29358119.481317468,82
+Karnataka,manufacturing,co2,2022,32837924.782207824,82
+Karnataka,manufacturing,co2,2023,33786790.44630008,82
+Karnataka,manufacturing,co2,2024,36141629.70783933,82
+Karnataka,manufacturing,co2,2025,39062610.50500859,82
+Karnataka,manufacturing,n2o,2021,1.0554189790513515,82
+Karnataka,manufacturing,n2o,2022,1.2724401096871094,82
+Karnataka,manufacturing,n2o,2023,1.3753841441754262,82
+Karnataka,manufacturing,n2o,2024,1.3753841441754262,82
+Karnataka,manufacturing,n2o,2025,1.3753841441754262,82
+Karnataka,power,ch4,2021,0.0,49
+Karnataka,power,ch4,2022,0.0,49
+Karnataka,power,ch4,2023,0.0,49
+Karnataka,power,ch4,2024,0.0,49
+Karnataka,power,ch4,2025,0.0,49
+Karnataka,power,co2,2021,32684575.84,49
+Karnataka,power,co2,2022,35980353.31999999,49
+Karnataka,power,co2,2023,44983961.99,49
+Karnataka,power,co2,2024,45717807.7,49
+Karnataka,power,co2,2025,44828969.47,49
+Karnataka,power,n2o,2021,0.0,49
+Karnataka,power,n2o,2022,0.0,49
+Karnataka,power,n2o,2023,0.0,49
+Karnataka,power,n2o,2024,0.0,49
+Karnataka,power,n2o,2025,0.0,49
+Karnataka,transportation,ch4,2021,522.1718000842421,49
+Karnataka,transportation,ch4,2022,549.1035892406893,49
+Karnataka,transportation,ch4,2023,586.4496933896431,49
+Karnataka,transportation,ch4,2024,623.0498072710828,49
+Karnataka,transportation,ch4,2025,662.3711825590168,49
+Karnataka,transportation,co2,2021,10285931.050317304,49
+Karnataka,transportation,co2,2022,11313388.547467897,49
+Karnataka,transportation,co2,2023,12131898.018605812,49
+Karnataka,transportation,co2,2024,12991351.830826465,49
+Karnataka,transportation,co2,2025,13834990.988438426,49
+Karnataka,transportation,n2o,2021,540.0996099150066,49
+Karnataka,transportation,n2o,2022,584.0805384354129,49
+Karnataka,transportation,n2o,2023,621.060424530733,49
+Karnataka,transportation,n2o,2024,660.9495505857485,49
+Karnataka,transportation,n2o,2025,702.4452444901606,49
+Kerala,manufacturing,ch4,2021,0.7677680238741762,8
+Kerala,manufacturing,ch4,2022,0.9119428241479116,8
+Kerala,manufacturing,ch4,2023,0.9628562605543216,8
+Kerala,manufacturing,ch4,2024,0.9628562605543216,8
+Kerala,manufacturing,ch4,2025,0.9628562605543216,8
+Kerala,manufacturing,co2,2021,59489.585063547536,8
+Kerala,manufacturing,co2,2022,58484.34852595577,8
+Kerala,manufacturing,co2,2023,59054.6729618735,8
+Kerala,manufacturing,co2,2024,60646.26270947284,8
+Kerala,manufacturing,co2,2025,60207.31355444557,8
+Kerala,manufacturing,n2o,2021,0.0989455292860641,8
+Kerala,manufacturing,n2o,2022,0.1192912602831664,8
+Kerala,manufacturing,n2o,2023,0.128942263516446,8
+Kerala,manufacturing,n2o,2024,0.128942263516446,8
+Kerala,manufacturing,n2o,2025,0.128942263516446,8
+Kerala,power,ch4,2021,0.0,5
+Kerala,power,ch4,2022,0.0,5
+Kerala,power,ch4,2023,0.0,5
+Kerala,power,ch4,2024,0.0,5
+Kerala,power,ch4,2025,0.0,5
+Kerala,power,co2,2021,253944.74,5
+Kerala,power,co2,2022,163840.356,5
+Kerala,power,co2,2023,187787.373,5
+Kerala,power,co2,2024,207246.002,5
+Kerala,power,co2,2025,206729.369,5
+Kerala,power,n2o,2021,0.0,5
+Kerala,power,n2o,2022,0.0,5
+Kerala,power,n2o,2023,0.0,5
+Kerala,power,n2o,2024,0.0,5
+Kerala,power,n2o,2025,0.0,5
+Kerala,transportation,ch4,2021,387.9990328086768,38
+Kerala,transportation,ch4,2022,450.816015544242,38
+Kerala,transportation,ch4,2023,466.10921853852017,38
+Kerala,transportation,ch4,2024,539.5891927798643,38
+Kerala,transportation,ch4,2025,616.9887338936289,38
+Kerala,transportation,co2,2021,6967408.359255355,38
+Kerala,transportation,co2,2022,7982621.549073075,38
+Kerala,transportation,co2,2023,8634203.65281123,38
+Kerala,transportation,co2,2024,9518215.974346811,38
+Kerala,transportation,co2,2025,10381707.418723915,38
+Kerala,transportation,n2o,2021,362.730154180574,38
+Kerala,transportation,n2o,2022,405.8507510012913,38
+Kerala,transportation,n2o,2023,438.2282167811651,38
+Kerala,transportation,n2o,2024,481.7048263581087,38
+Kerala,transportation,n2o,2025,528.9788563359001,38
+Lakshadweep,transportation,ch4,2021,0.6515777606912552,8
+Lakshadweep,transportation,ch4,2022,0.5418845598972607,8
+Lakshadweep,transportation,ch4,2023,0.7012930385710461,8
+Lakshadweep,transportation,ch4,2024,0.626084731466271,8
+Lakshadweep,transportation,ch4,2025,1.0307470685731568,8
+Lakshadweep,transportation,co2,2021,36630.73796865855,8
+Lakshadweep,transportation,co2,2022,30364.911391790254,8
+Lakshadweep,transportation,co2,2023,38505.948590067455,8
+Lakshadweep,transportation,co2,2024,36022.254779530296,8
+Lakshadweep,transportation,co2,2025,57159.924023326246,8
+Lakshadweep,transportation,n2o,2021,2.0319527922962997,8
+Lakshadweep,transportation,n2o,2022,1.6769917204584956,8
+Lakshadweep,transportation,n2o,2023,2.1657856616543403,8
+Lakshadweep,transportation,n2o,2024,1.9564048358700998,8
+Lakshadweep,transportation,n2o,2025,3.1557399670631003,8
+Madhya Pradesh,manufacturing,ch4,2021,0.7677680238741762,26
+Madhya Pradesh,manufacturing,ch4,2022,0.9119428241479116,26
+Madhya Pradesh,manufacturing,ch4,2023,0.9628562605543216,26
+Madhya Pradesh,manufacturing,ch4,2024,0.9628562605543214,26
+Madhya Pradesh,manufacturing,ch4,2025,0.9628562605543216,26
+Madhya Pradesh,manufacturing,co2,2021,23834997.401394796,26
+Madhya Pradesh,manufacturing,co2,2022,21678198.29720431,26
+Madhya Pradesh,manufacturing,co2,2023,24002343.502197746,26
+Madhya Pradesh,manufacturing,co2,2024,22926227.971831806,26
+Madhya Pradesh,manufacturing,co2,2025,21038865.675251592,26
+Madhya Pradesh,manufacturing,n2o,2021,0.0989455292860641,26
+Madhya Pradesh,manufacturing,n2o,2022,0.1192912602831664,26
+Madhya Pradesh,manufacturing,n2o,2023,0.128942263516446,26
+Madhya Pradesh,manufacturing,n2o,2024,0.128942263516446,26
+Madhya Pradesh,manufacturing,n2o,2025,0.128942263516446,26
+Madhya Pradesh,power,ch4,2021,0.0,33
+Madhya Pradesh,power,ch4,2022,0.0,33
+Madhya Pradesh,power,ch4,2023,0.0,33
+Madhya Pradesh,power,ch4,2024,0.0,33
+Madhya Pradesh,power,ch4,2025,0.0,33
+Madhya Pradesh,power,co2,2021,131413118.5,33
+Madhya Pradesh,power,co2,2022,141177659.5,33
+Madhya Pradesh,power,co2,2023,148267427.2,33
+Madhya Pradesh,power,co2,2024,149712715.9,33
+Madhya Pradesh,power,co2,2025,145822968.4,33
+Madhya Pradesh,power,n2o,2021,0.0,33
+Madhya Pradesh,power,n2o,2022,0.0,33
+Madhya Pradesh,power,n2o,2023,0.0,33
+Madhya Pradesh,power,n2o,2024,0.0,33
+Madhya Pradesh,power,n2o,2025,0.0,33
+Madhya Pradesh,transportation,ch4,2021,300.71845629087284,60
+Madhya Pradesh,transportation,ch4,2022,376.26232740572425,60
+Madhya Pradesh,transportation,ch4,2023,406.8786904669888,60
+Madhya Pradesh,transportation,ch4,2024,426.21629907592154,60
+Madhya Pradesh,transportation,ch4,2025,445.87593731264457,60
+Madhya Pradesh,transportation,co2,2021,5038562.447497401,60
+Madhya Pradesh,transportation,co2,2022,6356027.978153105,60
+Madhya Pradesh,transportation,co2,2023,6815003.131088409,60
+Madhya Pradesh,transportation,co2,2024,7198916.190492529,60
+Madhya Pradesh,transportation,co2,2025,7549385.052655051,60
+Madhya Pradesh,transportation,n2o,2021,278.9258615709952,60
+Madhya Pradesh,transportation,n2o,2022,349.19659518592533,60
+Madhya Pradesh,transportation,n2o,2023,377.58556811504593,60
+Madhya Pradesh,transportation,n2o,2024,395.5083633990445,60
+Madhya Pradesh,transportation,n2o,2025,414.1672449921377,60
+Maharashtra,manufacturing,ch4,2021,2670.085383119371,46
+Maharashtra,manufacturing,ch4,2022,2520.5657011207395,46
+Maharashtra,manufacturing,ch4,2023,2420.8872933027706,46
+Maharashtra,manufacturing,ch4,2024,2585.5642813027716,46
+Maharashtra,manufacturing,ch4,2025,2612.7759251026714,46
+Maharashtra,manufacturing,co2,2021,31661966.36863272,46
+Maharashtra,manufacturing,co2,2022,31604695.26964559,46
+Maharashtra,manufacturing,co2,2023,33077247.423834607,46
+Maharashtra,manufacturing,co2,2024,32027395.642444946,46
+Maharashtra,manufacturing,co2,2025,32086804.14405598,46
+Maharashtra,manufacturing,n2o,2021,0.4947276464303203,46
+Maharashtra,manufacturing,n2o,2022,0.596456301415832,46
+Maharashtra,manufacturing,n2o,2023,0.6447113175822303,46
+Maharashtra,manufacturing,n2o,2024,0.6447113175822303,46
+Maharashtra,manufacturing,n2o,2025,0.6447113175822303,46
+Maharashtra,power,ch4,2021,0.0,103
+Maharashtra,power,ch4,2022,0.0,103
+Maharashtra,power,ch4,2023,0.0,103
+Maharashtra,power,ch4,2024,0.0,103
+Maharashtra,power,ch4,2025,0.0,103
+Maharashtra,power,co2,2021,120958406.623,103
+Maharashtra,power,co2,2022,124126918.482,103
+Maharashtra,power,co2,2023,134913254.54,103
+Maharashtra,power,co2,2024,136900538.63,103
+Maharashtra,power,co2,2025,134791012.10999998,103
+Maharashtra,power,n2o,2021,0.0,103
+Maharashtra,power,n2o,2022,0.0,103
+Maharashtra,power,n2o,2023,0.0,103
+Maharashtra,power,n2o,2024,0.0,103
+Maharashtra,power,n2o,2025,0.0,103
+Maharashtra,transportation,ch4,2021,814.8364507665989,102
+Maharashtra,transportation,ch4,2022,868.6170630391435,102
+Maharashtra,transportation,ch4,2023,965.2804720942389,102
+Maharashtra,transportation,ch4,2024,982.5121861356165,102
+Maharashtra,transportation,ch4,2025,1103.0108567602629,102
+Maharashtra,transportation,co2,2021,16624098.650292963,102
+Maharashtra,transportation,co2,2022,19049502.46210166,102
+Maharashtra,transportation,co2,2023,20513861.82859844,102
+Maharashtra,transportation,co2,2024,22146027.977599584,102
+Maharashtra,transportation,co2,2025,22807053.626576,102
+Maharashtra,transportation,n2o,2021,864.5165913806403,102
+Maharashtra,transportation,n2o,2022,963.5274168455115,102
+Maharashtra,transportation,n2o,2023,1024.2131776165338,102
+Maharashtra,transportation,n2o,2024,1104.6835750619484,102
+Maharashtra,transportation,n2o,2025,1140.0160263360074,102
+Manipur,power,ch4,2021,0.0,1
+Manipur,power,ch4,2022,0.0,1
+Manipur,power,ch4,2023,0.0,1
+Manipur,power,ch4,2024,0.0,1
+Manipur,power,ch4,2025,0.0,1
+Manipur,power,co2,2021,62.033,1
+Manipur,power,co2,2022,64.17299999999999,1
+Manipur,power,co2,2023,74.86899999999999,1
+Manipur,power,co2,2024,77.2,1
+Manipur,power,co2,2025,77.006,1
+Manipur,power,n2o,2021,0.0,1
+Manipur,power,n2o,2022,0.0,1
+Manipur,power,n2o,2023,0.0,1
+Manipur,power,n2o,2024,0.0,1
+Manipur,power,n2o,2025,0.0,1
+Manipur,transportation,ch4,2021,14.772867566430303,10
+Manipur,transportation,ch4,2022,18.57853808540846,10
+Manipur,transportation,ch4,2023,24.664948704161063,10
+Manipur,transportation,ch4,2024,27.12202157463442,10
+Manipur,transportation,ch4,2025,28.956779554113826,10
+Manipur,transportation,co2,2021,257542.64541362706,10
+Manipur,transportation,co2,2022,321680.7903445059,10
+Manipur,transportation,co2,2023,416086.16190500493,10
+Manipur,transportation,co2,2024,457013.1362675198,10
+Manipur,transportation,co2,2025,484666.66251886456,10
+Manipur,transportation,n2o,2021,14.21312053521776,10
+Manipur,transportation,n2o,2022,17.832582858543933,10
+Manipur,transportation,n2o,2023,23.398634229955658,10
+Manipur,transportation,n2o,2024,25.68227835934293,10
+Manipur,transportation,n2o,2025,27.340669712146997,10
+Meghalaya,manufacturing,ch4,2021,0.0,9
+Meghalaya,manufacturing,ch4,2022,0.0,9
+Meghalaya,manufacturing,ch4,2023,0.0,9
+Meghalaya,manufacturing,ch4,2024,0.0,9
+Meghalaya,manufacturing,ch4,2025,0.0,9
+Meghalaya,manufacturing,co2,2021,2656186.133894131,9
+Meghalaya,manufacturing,co2,2022,2725736.013638035,9
+Meghalaya,manufacturing,co2,2023,2558046.374805644,9
+Meghalaya,manufacturing,co2,2024,2371723.9976190142,9
+Meghalaya,manufacturing,co2,2025,2586793.690441936,9
+Meghalaya,manufacturing,n2o,2021,0.0,9
+Meghalaya,manufacturing,n2o,2022,0.0,9
+Meghalaya,manufacturing,n2o,2023,0.0,9
+Meghalaya,manufacturing,n2o,2024,0.0,9
+Meghalaya,manufacturing,n2o,2025,0.0,9
+Meghalaya,transportation,ch4,2021,9.853080090596396,11
+Meghalaya,transportation,ch4,2022,13.844555237132301,11
+Meghalaya,transportation,ch4,2023,17.624978978348192,11
+Meghalaya,transportation,ch4,2024,18.488452887678516,11
+Meghalaya,transportation,ch4,2025,18.818626886563155,11
+Meghalaya,transportation,co2,2021,156662.65928790314,11
+Meghalaya,transportation,co2,2022,219971.45635523318,11
+Meghalaya,transportation,co2,2023,280837.5255628301,11
+Meghalaya,transportation,co2,2024,295659.8486232329,11
+Meghalaya,transportation,co2,2025,299927.9632329109,11
+Meghalaya,transportation,n2o,2021,9.07963145336088,11
+Meghalaya,transportation,n2o,2022,12.770972195993023,11
+Meghalaya,transportation,n2o,2023,16.27986265529375,11
+Meghalaya,transportation,n2o,2024,17.07875537548655,11
+Meghalaya,transportation,n2o,2025,17.35753011810532,11
+Mizoram,transportation,ch4,2021,8.514580005596189,9
+Mizoram,transportation,ch4,2022,10.428762525479128,9
+Mizoram,transportation,ch4,2023,13.58497250568339,9
+Mizoram,transportation,ch4,2024,14.857973461397798,9
+Mizoram,transportation,ch4,2025,17.814258156488474,9
+Mizoram,transportation,co2,2021,140047.7969053506,9
+Mizoram,transportation,co2,2022,176450.49107654672,9
+Mizoram,transportation,co2,2023,223422.71405008595,9
+Mizoram,transportation,co2,2024,247494.16247885185,9
+Mizoram,transportation,co2,2025,294560.45253652695,9
+Mizoram,transportation,n2o,2021,7.949870119633124,9
+Mizoram,transportation,n2o,2022,9.863008762883123,9
+Mizoram,transportation,n2o,2023,12.686814756498213,9
+Mizoram,transportation,n2o,2024,13.936391367381669,9
+Mizoram,transportation,n2o,2025,16.6604067919073,9
+NCT of Delhi,manufacturing,ch4,2021,3.454956107433792,28
+NCT of Delhi,manufacturing,ch4,2022,4.1037427086656,28
+NCT of Delhi,manufacturing,ch4,2023,4.332853172494448,28
+NCT of Delhi,manufacturing,ch4,2024,4.332853172494448,28
+NCT of Delhi,manufacturing,ch4,2025,4.332853172494448,28
+NCT of Delhi,manufacturing,co2,2021,56687.15068773409,28
+NCT of Delhi,manufacturing,co2,2022,59333.83493934735,28
+NCT of Delhi,manufacturing,co2,2023,60571.57623497221,28
+NCT of Delhi,manufacturing,co2,2024,60571.576235972214,28
+NCT of Delhi,manufacturing,co2,2025,60571.576235972214,28
+NCT of Delhi,manufacturing,n2o,2021,0.4452548817872883,28
+NCT of Delhi,manufacturing,n2o,2022,0.5368106712742486,28
+NCT of Delhi,manufacturing,n2o,2023,0.5802401858240073,28
+NCT of Delhi,manufacturing,n2o,2024,0.5802401858240072,28
+NCT of Delhi,manufacturing,n2o,2025,0.5802401858240072,28
+NCT of Delhi,power,ch4,2021,0.0,10
+NCT of Delhi,power,ch4,2022,0.0,10
+NCT of Delhi,power,ch4,2023,0.0,10
+NCT of Delhi,power,ch4,2024,0.0,10
+NCT of Delhi,power,ch4,2025,0.0,10
+NCT of Delhi,power,co2,2021,2089137.42,10
+NCT of Delhi,power,co2,2022,1732052.36,10
+NCT of Delhi,power,co2,2023,1503666.61,10
+NCT of Delhi,power,co2,2024,1696027.12,10
+NCT of Delhi,power,co2,2025,1154875.96,10
+NCT of Delhi,power,n2o,2021,0.0,10
+NCT of Delhi,power,n2o,2022,0.0,10
+NCT of Delhi,power,n2o,2023,0.0,10
+NCT of Delhi,power,n2o,2024,0.0,10
+NCT of Delhi,power,n2o,2025,0.0,10
+NCT of Delhi,transportation,ch4,2021,152.2095540344892,3
+NCT of Delhi,transportation,ch4,2022,175.50628193593676,3
+NCT of Delhi,transportation,ch4,2023,192.59662189937688,3
+NCT of Delhi,transportation,ch4,2024,197.78384540634883,3
+NCT of Delhi,transportation,ch4,2025,198.46152479124933,3
+NCT of Delhi,transportation,co2,2021,6056667.37608473,3
+NCT of Delhi,transportation,co2,2022,8197076.713140158,3
+NCT of Delhi,transportation,co2,2023,8925208.410133006,3
+NCT of Delhi,transportation,co2,2024,9476937.980609935,3
+NCT of Delhi,transportation,co2,2025,9265997.15257645,3
+NCT of Delhi,transportation,n2o,2021,226.13448237069946,3
+NCT of Delhi,transportation,n2o,2022,290.1109493567384,3
+NCT of Delhi,transportation,n2o,2023,317.35085852956814,3
+NCT of Delhi,transportation,n2o,2024,332.8198874648715,3
+NCT of Delhi,transportation,n2o,2025,328.01791207901584,3
+Nagaland,transportation,ch4,2021,15.946114813731482,12
+Nagaland,transportation,ch4,2022,17.668810206403535,12
+Nagaland,transportation,ch4,2023,19.678019651890484,12
+Nagaland,transportation,ch4,2024,20.637067195885965,12
+Nagaland,transportation,ch4,2025,20.639661467723933,12
+Nagaland,transportation,co2,2021,257800.69230013932,12
+Nagaland,transportation,co2,2022,287681.2736949393,12
+Nagaland,transportation,co2,2023,319241.41929486016,12
+Nagaland,transportation,co2,2024,334646.35683418746,12
+Nagaland,transportation,co2,2025,336638.7849893907,12
+Nagaland,transportation,n2o,2021,14.838871517420932,12
+Nagaland,transportation,n2o,2022,16.484292195140164,12
+Nagaland,transportation,n2o,2023,18.32525761840511,12
+Nagaland,transportation,n2o,2024,19.189047344599615,12
+Nagaland,transportation,n2o,2025,19.237165651709404,12
+Odisha,manufacturing,ch4,2021,0.0,30
+Odisha,manufacturing,ch4,2022,0.0,30
+Odisha,manufacturing,ch4,2023,0.0,30
+Odisha,manufacturing,ch4,2024,0.0,30
+Odisha,manufacturing,ch4,2025,0.0,30
+Odisha,manufacturing,co2,2021,79183386.11806525,30
+Odisha,manufacturing,co2,2022,81124932.81075996,30
+Odisha,manufacturing,co2,2023,91405337.20731322,30
+Odisha,manufacturing,co2,2024,91785226.37002479,30
+Odisha,manufacturing,co2,2025,98376309.93478271,30
+Odisha,manufacturing,n2o,2021,0.0,30
+Odisha,manufacturing,n2o,2022,0.0,30
+Odisha,manufacturing,n2o,2023,0.0,30
+Odisha,manufacturing,n2o,2024,0.0,30
+Odisha,manufacturing,n2o,2025,0.0,30
+Odisha,power,ch4,2021,0.0,34
+Odisha,power,ch4,2022,0.0,34
+Odisha,power,ch4,2023,0.0,34
+Odisha,power,ch4,2024,0.0,34
+Odisha,power,ch4,2025,0.0,34
+Odisha,power,co2,2021,94370020.0,34
+Odisha,power,co2,2022,99779517.0,34
+Odisha,power,co2,2023,105870453.0,34
+Odisha,power,co2,2024,109014891.6,34
+Odisha,power,co2,2025,109439150.0,34
+Odisha,power,n2o,2021,0.0,34
+Odisha,power,n2o,2022,0.0,34
+Odisha,power,n2o,2023,0.0,34
+Odisha,power,n2o,2024,0.0,34
+Odisha,power,n2o,2025,0.0,34
+Odisha,transportation,ch4,2021,151.77591523096723,46
+Odisha,transportation,ch4,2022,157.43537751335072,46
+Odisha,transportation,ch4,2023,218.29350532367397,46
+Odisha,transportation,ch4,2024,414.88023659694375,46
+Odisha,transportation,ch4,2025,288.868574365894,46
+Odisha,transportation,co2,2021,3955603.4145832034,46
+Odisha,transportation,co2,2022,4030730.679800665,46
+Odisha,transportation,co2,2023,4470676.0026276335,46
+Odisha,transportation,co2,2024,4682187.91624851,46
+Odisha,transportation,co2,2025,4788344.743936832,46
+Odisha,transportation,n2o,2021,219.8337400607113,46
+Odisha,transportation,n2o,2022,222.9235550881757,46
+Odisha,transportation,n2o,2023,246.84564339546128,46
+Odisha,transportation,n2o,2024,257.2089029548094,46
+Odisha,transportation,n2o,2025,261.86504175053483,46
+Puducherry,power,ch4,2021,0.0,1
+Puducherry,power,ch4,2022,0.0,1
+Puducherry,power,ch4,2023,0.0,1
+Puducherry,power,ch4,2024,0.0,1
+Puducherry,power,ch4,2025,0.0,1
+Puducherry,power,co2,2021,108735.0,1
+Puducherry,power,co2,2022,109311.0,1
+Puducherry,power,co2,2023,110496.0,1
+Puducherry,power,co2,2024,98756.0,1
+Puducherry,power,co2,2025,81912.6,1
+Puducherry,power,n2o,2021,0.0,1
+Puducherry,power,n2o,2022,0.0,1
+Puducherry,power,n2o,2023,0.0,1
+Puducherry,power,n2o,2024,0.0,1
+Puducherry,power,n2o,2025,0.0,1
+Puducherry,transportation,ch4,2021,14.469778275590622,10
+Puducherry,transportation,ch4,2022,15.096561202370946,10
+Puducherry,transportation,ch4,2023,16.519105537693413,10
+Puducherry,transportation,ch4,2024,16.81771205631824,10
+Puducherry,transportation,ch4,2025,16.335127756796876,10
+Puducherry,transportation,co2,2021,316902.80052352784,10
+Puducherry,transportation,co2,2022,335353.5533340954,10
+Puducherry,transportation,co2,2023,403947.8278712906,10
+Puducherry,transportation,co2,2024,413389.1206095725,10
+Puducherry,transportation,co2,2025,371363.26163251523,10
+Puducherry,transportation,n2o,2021,17.57296160590329,10
+Puducherry,transportation,n2o,2022,18.674353799837412,10
+Puducherry,transportation,n2o,2023,22.489596909590446,10
+Puducherry,transportation,n2o,2024,22.975132269911555,10
+Puducherry,transportation,n2o,2025,20.52630020616886,10
+Punjab,manufacturing,ch4,2021,4.478646805932693,39
+Punjab,manufacturing,ch4,2022,5.319666474196148,39
+Punjab,manufacturing,ch4,2023,4354.548083519897,39
+Punjab,manufacturing,ch4,2024,4650.9666615199,39
+Punjab,manufacturing,ch4,2025,4699.9476205198,39
+Punjab,manufacturing,co2,2021,964228.6121996293,39
+Punjab,manufacturing,co2,2022,1012826.8866988244,39
+Punjab,manufacturing,co2,2023,2440515.780151551,39
+Punjab,manufacturing,co2,2024,2509784.7946026316,39
+Punjab,manufacturing,co2,2025,2489622.6583592165,39
+Punjab,manufacturing,n2o,2021,0.5771822541687073,39
+Punjab,manufacturing,n2o,2022,0.6958656849851376,39
+Punjab,manufacturing,n2o,2023,0.7521632038459356,39
+Punjab,manufacturing,n2o,2024,0.7521632038459357,39
+Punjab,manufacturing,n2o,2025,0.7521632038459356,39
+Punjab,power,ch4,2021,0.0,18
+Punjab,power,ch4,2022,0.0,18
+Punjab,power,ch4,2023,0.0,18
+Punjab,power,ch4,2024,0.0,18
+Punjab,power,ch4,2025,0.0,18
+Punjab,power,co2,2021,21353936.0,18
+Punjab,power,co2,2022,28294956.0,18
+Punjab,power,co2,2023,30780931.0,18
+Punjab,power,co2,2024,32103895.0,18
+Punjab,power,co2,2025,30899174.0,18
+Punjab,power,n2o,2021,0.0,18
+Punjab,power,n2o,2022,0.0,18
+Punjab,power,n2o,2023,0.0,18
+Punjab,power,n2o,2024,0.0,18
+Punjab,power,n2o,2025,0.0,18
+Punjab,transportation,ch4,2021,205.37038363558895,28
+Punjab,transportation,ch4,2022,233.40728940440422,28
+Punjab,transportation,ch4,2023,332.2530217319928,28
+Punjab,transportation,ch4,2024,351.8456026972504,28
+Punjab,transportation,ch4,2025,355.5053354806604,28
+Punjab,transportation,co2,2021,3458797.657039628,28
+Punjab,transportation,co2,2022,3997537.1345849857,28
+Punjab,transportation,co2,2023,5646415.829220727,28
+Punjab,transportation,co2,2024,6039261.48096211,28
+Punjab,transportation,co2,2025,6080945.300592575,28
+Punjab,transportation,n2o,2021,190.58454222049937,28
+Punjab,transportation,n2o,2022,217.96273583738272,28
+Punjab,transportation,n2o,2023,309.95690902615263,28
+Punjab,transportation,n2o,2024,328.5547423693384,28
+Punjab,transportation,n2o,2025,331.46348321142074,28
+Rajasthan,manufacturing,ch4,2021,2.047381396997803,40
+Rajasthan,manufacturing,ch4,2022,2.4318475310610976,40
+Rajasthan,manufacturing,ch4,2023,2.5676166948115244,40
+Rajasthan,manufacturing,ch4,2024,2.5676166948115244,40
+Rajasthan,manufacturing,ch4,2025,2.5676166948115244,40
+Rajasthan,manufacturing,co2,2021,27465560.518812824,40
+Rajasthan,manufacturing,co2,2022,29920697.331334926,40
+Rajasthan,manufacturing,co2,2023,32266449.87469422,40
+Rajasthan,manufacturing,co2,2024,32135184.58018745,40
+Rajasthan,manufacturing,co2,2025,30225628.327177934,40
+Rajasthan,manufacturing,n2o,2021,0.2638547447628375,40
+Rajasthan,manufacturing,n2o,2022,0.3181100274217771,40
+Rajasthan,manufacturing,n2o,2023,0.343846036043856,40
+Rajasthan,manufacturing,n2o,2024,0.343846036043856,40
+Rajasthan,manufacturing,n2o,2025,0.343846036043856,40
+Rajasthan,power,ch4,2021,0.0,41
+Rajasthan,power,ch4,2022,0.0,41
+Rajasthan,power,ch4,2023,0.0,41
+Rajasthan,power,ch4,2024,0.0,41
+Rajasthan,power,ch4,2025,0.0,41
+Rajasthan,power,co2,2021,58135472.4,41
+Rajasthan,power,co2,2022,66054216.9,41
+Rajasthan,power,co2,2023,68481099.5,41
+Rajasthan,power,co2,2024,73566892.2,41
+Rajasthan,power,co2,2025,67797454.0,41
+Rajasthan,power,n2o,2021,0.0,41
+Rajasthan,power,n2o,2022,0.0,41
+Rajasthan,power,n2o,2023,0.0,41
+Rajasthan,power,n2o,2024,0.0,41
+Rajasthan,power,n2o,2025,0.0,41
+Rajasthan,transportation,ch4,2021,436.8041098240892,41
+Rajasthan,transportation,ch4,2022,496.25614501177597,41
+Rajasthan,transportation,ch4,2023,531.4750934723174,41
+Rajasthan,transportation,ch4,2024,566.4149193189273,41
+Rajasthan,transportation,ch4,2025,593.5549915856055,41
+Rajasthan,transportation,co2,2021,7479401.726660217,41
+Rajasthan,transportation,co2,2022,8560578.71715803,41
+Rajasthan,transportation,co2,2023,9074662.949326493,41
+Rajasthan,transportation,co2,2024,9739309.557112819,41
+Rajasthan,transportation,co2,2025,10203873.426441304,41
+Rajasthan,transportation,n2o,2021,406.60308746634354,41
+Rajasthan,transportation,n2o,2022,462.4228413587912,41
+Rajasthan,transportation,n2o,2023,495.1755810936329,41
+Rajasthan,transportation,n2o,2024,527.317198781038,41
+Rajasthan,transportation,n2o,2025,552.5132034006275,41
+Sikkim,transportation,ch4,2021,6.872397406338363,5
+Sikkim,transportation,ch4,2022,6.759208615742409,5
+Sikkim,transportation,ch4,2023,6.944569437382262,5
+Sikkim,transportation,ch4,2024,7.84914126350324,5
+Sikkim,transportation,ch4,2025,8.491656318871664,5
+Sikkim,transportation,co2,2021,110001.66625266292,5
+Sikkim,transportation,co2,2022,108146.94448669825,5
+Sikkim,transportation,co2,2023,109209.21571690879,5
+Sikkim,transportation,co2,2024,123254.60804670364,5
+Sikkim,transportation,co2,2025,132757.8667016833,5
+Sikkim,transportation,n2o,2021,6.375082351399894,5
+Sikkim,transportation,n2o,2022,6.269981541900221,5
+Sikkim,transportation,n2o,2023,6.398093551557169,5
+Sikkim,transportation,n2o,2024,7.227543725659716,5
+Sikkim,transportation,n2o,2025,7.805074992794608,5
+Tamil Nadu,manufacturing,ch4,2021,31.09460496690423,266
+Tamil Nadu,manufacturing,ch4,2022,36.93368437799051,266
+Tamil Nadu,manufacturing,ch4,2023,38.99567855244998,266
+Tamil Nadu,manufacturing,ch4,2024,38.99567855244998,266
+Tamil Nadu,manufacturing,ch4,2025,38.99567855244998,266
+Tamil Nadu,manufacturing,co2,2021,18965956.655506607,266
+Tamil Nadu,manufacturing,co2,2022,19616876.962040093,266
+Tamil Nadu,manufacturing,co2,2023,22011156.071102258,266
+Tamil Nadu,manufacturing,co2,2024,20116657.880148575,266
+Tamil Nadu,manufacturing,co2,2025,20596523.097121805,266
+Tamil Nadu,manufacturing,n2o,2021,4.007293936085605,266
+Tamil Nadu,manufacturing,n2o,2022,4.831296041468233,266
+Tamil Nadu,manufacturing,n2o,2023,5.222161672416075,266
+Tamil Nadu,manufacturing,n2o,2024,5.222161672416075,266
+Tamil Nadu,manufacturing,n2o,2025,5.222161672416075,266
+Tamil Nadu,power,ch4,2021,0.0,50
+Tamil Nadu,power,ch4,2022,0.0,50
+Tamil Nadu,power,ch4,2023,0.0,50
+Tamil Nadu,power,ch4,2024,0.0,50
+Tamil Nadu,power,ch4,2025,0.0,50
+Tamil Nadu,power,co2,2021,68449963.6,50
+Tamil Nadu,power,co2,2022,75674366.5,50
+Tamil Nadu,power,co2,2023,86600548.21,50
+Tamil Nadu,power,co2,2024,89041928.1,50
+Tamil Nadu,power,co2,2025,82082060.56,50
+Tamil Nadu,power,n2o,2021,0.0,50
+Tamil Nadu,power,n2o,2022,0.0,50
+Tamil Nadu,power,n2o,2023,0.0,50
+Tamil Nadu,power,n2o,2024,0.0,50
+Tamil Nadu,power,n2o,2025,0.0,50
+Tamil Nadu,transportation,ch4,2021,874.969099575018,59
+Tamil Nadu,transportation,ch4,2022,729.6392939628121,59
+Tamil Nadu,transportation,ch4,2023,728.7874419674937,59
+Tamil Nadu,transportation,ch4,2024,881.2525213538205,59
+Tamil Nadu,transportation,ch4,2025,1113.454423796383,59
+Tamil Nadu,transportation,co2,2021,13006669.932190053,59
+Tamil Nadu,transportation,co2,2022,14513633.515422776,59
+Tamil Nadu,transportation,co2,2023,15396162.572933283,59
+Tamil Nadu,transportation,co2,2024,16364853.01228998,59
+Tamil Nadu,transportation,co2,2025,19016719.16244535,59
+Tamil Nadu,transportation,n2o,2021,686.5022139939904,59
+Tamil Nadu,transportation,n2o,2022,758.4147178012836,59
+Tamil Nadu,transportation,n2o,2023,801.5408435206153,59
+Tamil Nadu,transportation,n2o,2024,850.2669574644422,59
+Tamil Nadu,transportation,n2o,2025,992.151925992355,59
+Telangana,manufacturing,ch4,2021,0.7677680238741762,25
+Telangana,manufacturing,ch4,2022,0.9119428241479116,25
+Telangana,manufacturing,ch4,2023,0.9628562605543216,25
+Telangana,manufacturing,ch4,2024,0.9628562605543216,25
+Telangana,manufacturing,ch4,2025,0.9628562605543216,25
+Telangana,manufacturing,co2,2021,13842539.590556258,25
+Telangana,manufacturing,co2,2022,13056063.724224057,25
+Telangana,manufacturing,co2,2023,13629682.742583979,25
+Telangana,manufacturing,co2,2024,13287463.006521136,25
+Telangana,manufacturing,co2,2025,14103051.918270675,25
+Telangana,manufacturing,n2o,2021,0.0989455292860641,25
+Telangana,manufacturing,n2o,2022,0.1192912602831664,25
+Telangana,manufacturing,n2o,2023,0.128942263516446,25
+Telangana,manufacturing,n2o,2024,0.128942263516446,25
+Telangana,manufacturing,n2o,2025,0.128942263516446,25
+Telangana,power,ch4,2021,0.0,13
+Telangana,power,ch4,2022,0.0,13
+Telangana,power,ch4,2023,0.0,13
+Telangana,power,ch4,2024,0.0,13
+Telangana,power,ch4,2025,0.0,13
+Telangana,power,co2,2021,45827585.0,13
+Telangana,power,co2,2022,47249340.0,13
+Telangana,power,co2,2023,50670271.0,13
+Telangana,power,co2,2024,54353524.0,13
+Telangana,power,co2,2025,57239073.0,13
+Telangana,power,n2o,2021,0.0,13
+Telangana,power,n2o,2022,0.0,13
+Telangana,power,n2o,2023,0.0,13
+Telangana,power,n2o,2024,0.0,13
+Telangana,power,n2o,2025,0.0,13
+Telangana,transportation,ch4,2021,350.12425376966723,14
+Telangana,transportation,ch4,2022,364.82977813883053,14
+Telangana,transportation,ch4,2023,379.7891586358159,14
+Telangana,transportation,ch4,2024,397.68983859193105,14
+Telangana,transportation,ch4,2025,410.888307563071,14
+Telangana,transportation,co2,2021,6538916.099928955,14
+Telangana,transportation,co2,2022,7076032.389414718,14
+Telangana,transportation,co2,2023,7387709.07407492,14
+Telangana,transportation,co2,2024,7865877.482228014,14
+Telangana,transportation,co2,2025,8168900.935949802,14
+Telangana,transportation,n2o,2021,339.33782877491984,14
+Telangana,transportation,n2o,2022,359.9259619315086,14
+Telangana,transportation,n2o,2023,375.15628023608974,14
+Telangana,transportation,n2o,2024,395.1193497816084,14
+Telangana,transportation,n2o,2025,409.2353898258792,14
+Tripura,power,ch4,2021,0.0,5
+Tripura,power,ch4,2022,0.0,5
+Tripura,power,ch4,2023,0.0,5
+Tripura,power,ch4,2024,0.0,5
+Tripura,power,ch4,2025,0.0,5
+Tripura,power,co2,2021,3053780.0,5
+Tripura,power,co2,2022,3215457.0,5
+Tripura,power,co2,2023,3094733.0,5
+Tripura,power,co2,2024,2327924.16,5
+Tripura,power,co2,2025,2243831.11,5
+Tripura,power,n2o,2021,0.0,5
+Tripura,power,n2o,2022,0.0,5
+Tripura,power,n2o,2023,0.0,5
+Tripura,power,n2o,2024,0.0,5
+Tripura,power,n2o,2025,0.0,5
+Tripura,transportation,ch4,2021,7.073877525105731,9
+Tripura,transportation,ch4,2022,12.023963025745191,9
+Tripura,transportation,ch4,2023,17.283261330959732,9
+Tripura,transportation,ch4,2024,19.204914137059426,9
+Tripura,transportation,ch4,2025,19.58464492968247,9
+Tripura,transportation,co2,2021,144443.73894798255,9
+Tripura,transportation,co2,2022,229454.93241894376,9
+Tripura,transportation,co2,2023,314878.40716784523,9
+Tripura,transportation,co2,2024,346196.8503427747,9
+Tripura,transportation,co2,2025,356698.04082918784,9
+Tripura,transportation,n2o,2021,7.2158837598741,9
+Tripura,transportation,n2o,2022,11.85389986919683,9
+Tripura,transportation,n2o,2023,16.658997663877443,9
+Tripura,transportation,n2o,2024,18.402601598031556,9
+Tripura,transportation,n2o,2025,18.854817415559204,9
+Uttar Pradesh,manufacturing,ch4,2021,3814.884644814794,132
+Uttar Pradesh,manufacturing,ch4,2022,3603.699377953648,132
+Uttar Pradesh,manufacturing,ch4,2023,3462.321643254511,132
+Uttar Pradesh,manufacturing,ch4,2024,3696.986351254512,132
+Uttar Pradesh,manufacturing,ch4,2025,3735.762943654513,132
+Uttar Pradesh,manufacturing,co2,2021,19296388.39056104,132
+Uttar Pradesh,manufacturing,co2,2022,20986666.77496332,132
+Uttar Pradesh,manufacturing,co2,2023,22762463.982795943,132
+Uttar Pradesh,manufacturing,co2,2024,22890078.749216016,132
+Uttar Pradesh,manufacturing,co2,2025,22945462.73214315,132
+Uttar Pradesh,manufacturing,n2o,2021,1.9954015072689637,132
+Uttar Pradesh,manufacturing,n2o,2022,2.405707082377188,132
+Uttar Pradesh,manufacturing,n2o,2023,2.6003356475816664,132
+Uttar Pradesh,manufacturing,n2o,2024,2.6003356475816664,132
+Uttar Pradesh,manufacturing,n2o,2025,2.6003356475816664,132
+Uttar Pradesh,power,ch4,2021,0.0,56
+Uttar Pradesh,power,ch4,2022,0.0,56
+Uttar Pradesh,power,ch4,2023,0.0,56
+Uttar Pradesh,power,ch4,2024,0.0,56
+Uttar Pradesh,power,ch4,2025,0.0,56
+Uttar Pradesh,power,co2,2021,131487276.29999998,56
+Uttar Pradesh,power,co2,2022,149827857.61,56
+Uttar Pradesh,power,co2,2023,154307667.41,56
+Uttar Pradesh,power,co2,2024,163266902.2,56
+Uttar Pradesh,power,co2,2025,165343155.2,56
+Uttar Pradesh,power,n2o,2021,0.0,56
+Uttar Pradesh,power,n2o,2022,0.0,56
+Uttar Pradesh,power,n2o,2023,0.0,56
+Uttar Pradesh,power,n2o,2024,0.0,56
+Uttar Pradesh,power,n2o,2025,0.0,56
+Uttar Pradesh,transportation,ch4,2021,587.4228388983117,94
+Uttar Pradesh,transportation,ch4,2022,859.2070027921391,94
+Uttar Pradesh,transportation,ch4,2023,1014.508581450782,94
+Uttar Pradesh,transportation,ch4,2024,1074.9654155457247,94
+Uttar Pradesh,transportation,ch4,2025,1107.3744082370904,94
+Uttar Pradesh,transportation,co2,2021,10076013.404015388,94
+Uttar Pradesh,transportation,co2,2022,14752750.391106347,94
+Uttar Pradesh,transportation,co2,2023,17174598.361203264,94
+Uttar Pradesh,transportation,co2,2024,18404457.760754906,94
+Uttar Pradesh,transportation,co2,2025,19031202.75827126,94
+Uttar Pradesh,transportation,n2o,2021,548.8480673530535,94
+Uttar Pradesh,transportation,n2o,2022,800.3197342313875,94
+Uttar Pradesh,transportation,n2o,2023,943.0489541939066,94
+Uttar Pradesh,transportation,n2o,2024,1000.1832331551232,94
+Uttar Pradesh,transportation,n2o,2025,1032.0458746650384,94
+Uttarakhand,manufacturing,ch4,2021,0.7677680238741762,6
+Uttarakhand,manufacturing,ch4,2022,0.9119428241479116,6
+Uttarakhand,manufacturing,ch4,2023,0.9628562605543216,6
+Uttarakhand,manufacturing,ch4,2024,0.9628562605543216,6
+Uttarakhand,manufacturing,ch4,2025,0.9628562605543214,6
+Uttarakhand,manufacturing,co2,2021,4550.833300163127,6
+Uttarakhand,manufacturing,co2,2022,5138.98535607719,6
+Uttarakhand,manufacturing,co2,2023,5414.038977327156,6
+Uttarakhand,manufacturing,co2,2024,5414.038977327155,6
+Uttarakhand,manufacturing,co2,2025,5414.038977327156,6
+Uttarakhand,manufacturing,n2o,2021,0.0989455292860641,6
+Uttarakhand,manufacturing,n2o,2022,0.1192912602831664,6
+Uttarakhand,manufacturing,n2o,2023,0.128942263516446,6
+Uttarakhand,manufacturing,n2o,2024,0.128942263516446,6
+Uttarakhand,manufacturing,n2o,2025,0.128942263516446,6
+Uttarakhand,power,ch4,2021,0.0,1
+Uttarakhand,power,ch4,2022,0.0,1
+Uttarakhand,power,ch4,2023,0.0,1
+Uttarakhand,power,ch4,2024,0.0,1
+Uttarakhand,power,ch4,2025,0.0,1
+Uttarakhand,power,co2,2021,479540.0,1
+Uttarakhand,power,co2,2022,514390.0,1
+Uttarakhand,power,co2,2023,563350.0,1
+Uttarakhand,power,co2,2024,575590.0,1
+Uttarakhand,power,co2,2025,574140.0,1
+Uttarakhand,power,n2o,2021,0.0,1
+Uttarakhand,power,n2o,2022,0.0,1
+Uttarakhand,power,n2o,2023,0.0,1
+Uttarakhand,power,n2o,2024,0.0,1
+Uttarakhand,power,n2o,2025,0.0,1
+Uttarakhand,transportation,ch4,2021,73.32830479983687,18
+Uttarakhand,transportation,ch4,2022,91.54612907974037,18
+Uttarakhand,transportation,ch4,2023,111.89399570243316,18
+Uttarakhand,transportation,ch4,2024,119.9386555035857,18
+Uttarakhand,transportation,ch4,2025,122.0972556475904,18
+Uttarakhand,transportation,co2,2021,1202322.1249788185,18
+Uttarakhand,transportation,co2,2022,1521375.8266140423,18
+Uttarakhand,transportation,co2,2023,1834074.641186055,18
+Uttarakhand,transportation,co2,2024,1980130.3511363699,18
+Uttarakhand,transportation,co2,2025,2023842.2636172262,18
+Uttarakhand,transportation,n2o,2021,68.28442040369507,18
+Uttarakhand,transportation,n2o,2022,85.48032026525905,18
+Uttarakhand,transportation,n2o,2023,104.14350251020711,18
+Uttarakhand,transportation,n2o,2024,111.51778976584113,18
+Uttarakhand,transportation,n2o,2025,113.72356473593014,18
+West Bengal,manufacturing,ch4,2021,1868.675884071622,32
+West Bengal,manufacturing,ch4,2022,1763.9400194724433,32
+West Bengal,manufacturing,ch4,2023,1694.1396777816622,32
+West Bengal,manufacturing,ch4,2024,1809.4135687816631,32
+West Bengal,manufacturing,ch4,2025,1612.4321303815632,32
+West Bengal,manufacturing,co2,2021,15467462.186999295,32
+West Bengal,manufacturing,co2,2022,15635582.121568896,32
+West Bengal,manufacturing,co2,2023,16389037.010042045,32
+West Bengal,manufacturing,co2,2024,18063212.406402115,32
+West Bengal,manufacturing,co2,2025,20423546.871705834,32
+West Bengal,manufacturing,n2o,2021,0.2968365878581922,32
+West Bengal,manufacturing,n2o,2022,0.3578737808494991,32
+West Bengal,manufacturing,n2o,2023,0.386826790549338,32
+West Bengal,manufacturing,n2o,2024,0.386826790549338,32
+West Bengal,manufacturing,n2o,2025,0.386826790549338,32
+West Bengal,power,ch4,2021,0.0,23
+West Bengal,power,ch4,2022,0.0,23
+West Bengal,power,ch4,2023,0.0,23
+West Bengal,power,ch4,2024,0.0,23
+West Bengal,power,ch4,2025,0.0,23
+West Bengal,power,co2,2021,79246701.82,23
+West Bengal,power,co2,2022,81235735.88,23
+West Bengal,power,co2,2023,85414367.85,23
+West Bengal,power,co2,2024,86801748.57,23
+West Bengal,power,co2,2025,84900667.59,23
+West Bengal,power,n2o,2021,0.0,23
+West Bengal,power,n2o,2022,0.0,23
+West Bengal,power,n2o,2023,0.0,23
+West Bengal,power,n2o,2024,0.0,23
+West Bengal,power,n2o,2025,0.0,23
+West Bengal,transportation,ch4,2021,224.939331902015,38
+West Bengal,transportation,ch4,2022,391.2735870843142,38
+West Bengal,transportation,ch4,2023,501.3469601857602,38
+West Bengal,transportation,ch4,2024,534.6736273134675,38
+West Bengal,transportation,ch4,2025,542.8574539880967,38
+West Bengal,transportation,co2,2021,5590583.826631999,38
+West Bengal,transportation,co2,2022,8576536.16991077,38
+West Bengal,transportation,co2,2023,10562326.286169674,38
+West Bengal,transportation,co2,2024,11033246.671188723,38
+West Bengal,transportation,co2,2025,11162980.311333798,38
+West Bengal,transportation,n2o,2021,289.44221601742856,38
+West Bengal,transportation,n2o,2022,448.976828681549,38
+West Bengal,transportation,n2o,2023,558.3212687952849,38
+West Bengal,transportation,n2o,2024,582.6018193563201,38
+West Bengal,transportation,n2o,2025,586.35407287695,38

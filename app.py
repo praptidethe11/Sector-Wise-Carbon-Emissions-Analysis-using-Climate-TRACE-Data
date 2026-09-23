@@ -1,7 +1,8 @@
 import streamlit as st
+import pandas as pd
 from src.data_loader import load_assets
 from src.predictor import batch_predict
-from src.charts import sector_shap_series, top_states_shap_series
+from src.charts import sector_shap_series, top_states_shap_series, build_gas_map
 
 st.set_page_config(page_title="India Carbon Emission Driver Explorer", layout="wide")
 
@@ -17,7 +18,11 @@ asset_count_reference = assets["asset_count_reference"]
 st.title("India Carbon Emission Driver Explorer")
 st.caption("Extending a machine learning carbon driver framework from China to India")
 
-tab1, tab2 = st.tabs(["Predict emissions", "Explore drivers"])
+tab1, tab2, tab3 = st.tabs([
+    "Predict emissions",
+    "Explore drivers",
+    "State map"
+])
 
 with tab1:
     st.subheader("Predict emissions across one or more combinations")
@@ -85,6 +90,58 @@ with tab2:
         st.write("**Top emitting states** (mean SHAP contribution)")
         st.bar_chart(top_states_shap_series(state_shap))
         st.caption("Chhattisgarh, Bihar, UP, and MP lead — India's coal/heavy-industry belt")
+
+with tab3:
+    map_data = pd.read_csv("models/state_map_data.csv")
+
+    fcol1, fcol2, fcol3 = st.columns(3)
+    with fcol1:
+        map_sector = st.selectbox("Sector", sorted(map_data["sector"].unique()), key="map_sector")
+    with fcol2:
+        map_gases = st.multiselect("Gas(es)", ["co2", "ch4", "n2o"], default=["co2"], key="map_gases")
+    with fcol3:
+        map_year = st.selectbox("Year", sorted(map_data["year"].unique()), index=len(map_data["year"].unique()) - 1, key="map_year")
+
+    if map_gases:
+        fig, state_totals = build_gas_map(map_data, map_sector, map_gases, map_year)
+
+        map_col, card_col = st.columns([3, 1])
+        with map_col:
+            event = st.plotly_chart(fig, use_container_width=True, on_select="rerun", key="map_chart")
+
+        with card_col:
+            total = state_totals["value"].sum()
+            source_count = map_data[
+                (map_data["sector"] == map_sector) & (map_data["gas"].isin(map_gases)) & (map_data["year"] == map_year)
+            ]["asset_count"].sum()
+
+            st.markdown(f"""
+                <div style="background:#1a1a1a;border-radius:10px;padding:16px;color:white;">
+                    <div style="font-size:13px;color:#9CA3AF;">{map_year}: {map_sector.title()}</div>
+                    <div style="font-size:32px;font-weight:700;margin:8px 0;">{total/1e6:.1f}M <span style="font-size:14px;font-weight:400;">t</span></div>
+                    <div style="font-size:13px;color:#9CA3AF;">{', '.join(g.upper() for g in map_gases)}</div>
+                    <div style="font-size:13px;color:#9CA3AF;margin-top:8px;">{int(source_count)} sources (aggregated)</div>
+                </div>
+            """, unsafe_allow_html=True)
+
+            selected_points = event.get("selection", {}).get("points", []) if event else []
+            if selected_points:
+                sel_state = selected_points[0]["customdata"][0]
+                sel_value = selected_points[0]["customdata"][1]
+                yearly = map_data[
+                    (map_data["state"] == sel_state) & (map_data["sector"] == map_sector) & (map_data["gas"].isin(map_gases))
+                ].groupby("year")["value"].sum()
+
+                st.markdown(f"""
+                    <div style="background:#262626;border-radius:10px;padding:16px;color:white;margin-top:10px;">
+                        <div style="font-weight:600;">{sel_state}</div>
+                        <div style="font-size:24px;font-weight:700;margin:6px 0;">{sel_value/1e6:.2f}M t</div>
+                    </div>
+                """, unsafe_allow_html=True)
+                st.bar_chart(yearly)
+        st.caption("Markers are placed at state centroids using aggregated state-level data, not individual facility coordinates.")
+    else:
+        st.info("Select at least one gas to display.")
 
 st.divider()
 st.caption("Data: Climate TRACE (2021-2025) | Anchor study: Yu, Xia & Cao (2024), Scientific Reports")
